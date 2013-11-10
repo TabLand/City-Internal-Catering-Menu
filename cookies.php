@@ -2,15 +2,24 @@
 	//write to cookies.json
 	function write_cookies($cookies){
 		//get json for cookie array
-		$out = serialize($cookies);
-		//try to write to cookies.json
+		$out = export_cookies($cookies);
 		
-		//A security risk - cookie_jar.ser file permissions are set to 777, as student.city will not allow write to files unless they have public write permissions. Very strange.
+		//bugfix of ASP.NET_SessionId cookies being renamed ASP_NET_SessionId for an unknown reason
+		if(array_key_exists("ASP_NET_SessionId", $cookies)){
+			$cookies["ASP.NET_SessionId"] = $cookies["ASP_NET_SessionId"];
+			log_it("ASP.NET Bug fix succeeded");
+			log_it("Cookie dump " . var_export($cookies, true));
+		}
+		else{
+			log_it("ASP.NET Bug fix failed");
+		}
+		
+		log_it("Attempting to update cookies. Serialized dump: " . $out);
+		
+		//try to write to cookies.json
+		//A security risk - cookie_jar.ser file permissions are set to 777, as student.city will not allow writes to files unless they have public write permissions. Very strange.
 		//Must replace this with a database when have more spare time
 		//cannot use json, as json functions do not exist on the available version of php on student.city
-		
-		//solve bug of ASP.NET_SessionId cookies being renamed ASP_NET_SessionId
-		
 		$write = file_put_contents("cookie_jar.ser", $out, LOCK_EX);
 	
 		if($write){
@@ -28,7 +37,7 @@
 		$read = file_get_contents("cookie_jar.ser");
 		//decode json
 		if($read) {
-			$in = unserialize($read);
+			$in = import_cookies($read);
 			return $in;
 		}
 		else{
@@ -38,9 +47,7 @@
 		}
 	}
 	//converting a cookie array for use in http request headers using file_get_contents()
-	function conv_cookies4headers($cookies){
-	
-		
+	function conv_cookies4headers($cookies){	
 		//cookie header, pronounced cheddar
 		if(sizeof($cookies)>0){
 			$cheader = "Cookie: ";
@@ -59,5 +66,21 @@
 		log_it("Cookie Dump! conv_cookies4headers " . $cheader);
 		return $cheader;
 	}
-
+	
+	function export_cookies($cookies){
+		$exp = "";
+		foreach($cookies as $cname=>$cvalue){
+			$exp .= $cname . "=" . $cvalue . ";\r\n";
+		}
+		return $exp;
+	}
+	function import_cookies($text){
+		$cookies = array();
+		$cookie_rows = explode(";\r\n",$text);
+		foreach($cookie_rows as $cookie_row){
+			$temp = explode("=",$cookie_row);
+			$cookies[$temp[0]] = $temp[1];
+		}
+		return $cookies;
+	}
 ?>
