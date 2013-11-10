@@ -1,7 +1,7 @@
 <?php
 	//disable error reporting to hide circular redirect errors. TO DO Remove this line and find out what a circular redirect is, and how it can be avoided.
 	//error_reporting(0);
-	include "ua.php";
+	include "useragent.php";
 	include "cookies.php";
 	include "logger.php";	
 	//load cookies

@@ -1,6 +1,7 @@
 <?php
 	include "cookies.php";
 	include "logger.php";
+	include "useragent.php";
 	
 	if (strpos($_GET["f"],'.css') !== false) header("Content-type: text/css");
 	elseif(strpos($_GET["f"],'.jpg') !== false) header("Content-type: image/jpeg");
