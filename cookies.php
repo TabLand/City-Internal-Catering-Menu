@@ -52,6 +52,8 @@
 	//converting a cookie array for use in http request headers using file_get_contents()
 	function conv_cookies4headers($cookies){	
 		//cookie header, pronounced cheddar
+		log_it("Cookie Dump! pre conv_cookies4headers" . var_export($cookies, true));
+		
 		if(sizeof($cookies)>0){
 			$cheader = "Cookie: ";
 			foreach($cookies as $cname=>$cvalue){
@@ -66,7 +68,7 @@
 			$cheader ="";
 		}
 		//log structure of cookies received
-		log_it("Cookie Dump! conv_cookies4headers " . $cheader);
+		log_it("Cookie Dump! post conv_cookies4headers " . $cheader);
 		return $cheader;
 	}
 	

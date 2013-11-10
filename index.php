@@ -24,7 +24,6 @@
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
 				"content" => http_build_query($_POST),
-				"timeout" => 1
 				));
 				
 	//main url. Visit atleast once to get a valid asp session cookie
@@ -56,9 +55,6 @@
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
 				conv_cookies4headers($cookies) .
-				"Host:hospitality.city.ac.uk\r\n".
-				"Origin:http://hospitality.city.ac.uk\r\n".
-				"Referer:http://hospitality.city.ac.uk/\r\n".
 				"User-Agent: $useragent\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
@@ -68,13 +64,13 @@
 
 	
 	
-	log_it("Http request header dump! " . var_export($opts,true));
+	log_it("Http request header dump, ViewMenu.aspx! " . var_export($opts,true));
 	
 	$url = "http://hospitality.city.ac.uk/ViewMenu.aspx?" . http_build_query($_GET);
 	$context = stream_context_create($opts);
 	$data =  file_get_contents($url, false, $context);
 	
-	$data = str_replace("&amp;","&",$data);
+	//$data = str_replace("&amp;","&",$data);
 	$data = str_replace("/ScriptResource.axd","ScriptResource.php",$data);
   	$data = str_replace("/WebResource.axd","WebResource.php",$data);
   	$data = str_replace("Default.aspx","index.php",$data);
