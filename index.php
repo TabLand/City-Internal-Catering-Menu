@@ -1,17 +1,20 @@
 <?php
-	error_reporting(0);
+	//disable error reporting to hide circular redirect errors. TO DO Remove this line and find out what a circular redirect is, and how it can be avoided.
+	//error_reporting(0);
 	include "ua.php";
-	//send cookies set
-	$cookies1 = "ASP.NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";
-	$cookies1 .= "ASP_NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";
-
-
+	include "cookies.php";
+	include "logger.php";	
+	//load cookies
+	$cookies = read_cookies();
+	
+	//create http request header array
 	$opts = array(
 			'http'=>array(
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
-				"Cookie: ".$cookies1."\r\n".
+				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
+				//these two lines may be causing the circular redirect error?
 				"Origin:http://hospitality.city.ac.uk\r\n".
 				"Referer:http://hospitality.city.ac.uk/\r\n".
 				"User-Agent: $useragent\r\n".
@@ -19,33 +22,34 @@
 				"method" => "POST",
 				"content" => http_build_query($_POST)
 				));
-
+				
+	//main url. Visit atleast once to get a valid asp session cookie
 	$url = "http://hospitality.city.ac.uk/Default.aspx?" . http_build_query($_GET);
-	
 	$context = stream_context_create($opts);
+	
+	//get data and headers
 	$data =  file_get_contents($url, false, $context);
-	 
+	//dumping headers for later viewing
+	log_it("Http Response Header dump! " . var_export($http_response_header,true));
+	
   	header("Content-Type: text/html");
-	$cookies = array();
+	$cookies_temp = array();
 	foreach ($http_response_header as $hdr) {
 	    if (preg_match('/^Set-Cookie:\s*([^;]+)/', $hdr, $matches)) {
         	parse_str($matches[1], $tmp);
-	        $cookies += $tmp;
+	        $cookies_temp += $tmp;
 	    }
 	}
-	foreach($cookies as $cname =>$cvalue){
-		$_COOKIE[$cname] = $cvalue;
-		setcookie($cname, $cvalue);
+	foreach($cookies_temp as $cname =>$cvalue){
+		$cookies[$cname] = $cvalue;
+		write_cookies($cookies);
 	}
-	$cookies1 = "ASP.NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";
-	$cookies1 .= "ASP_NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";
-
-
+	
 	$opts = array(
 			'http'=>array(
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
-				"Cookie: ".$cookies1."\r\n".
+				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
 				"Origin:http://hospitality.city.ac.uk\r\n".
 				"Referer:http://hospitality.city.ac.uk/\r\n".

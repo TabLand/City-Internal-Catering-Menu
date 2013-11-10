@@ -1,4 +1,7 @@
 <?php
+	include "cookies.php";
+	include "logger.php";
+	
 	if (strpos($_GET["f"],'.css') !== false) header("Content-type: text/css");
 	elseif(strpos($_GET["f"],'.jpg') !== false) header("Content-type: image/jpeg");
 	elseif(strpos($_GET["f"],'.png') !==false ) header("Content-type: image/png");
@@ -10,7 +13,7 @@
 		$opts = array('http'=>array(
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
-				"Cookie: ".$cookies1."\r\n".
+				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
 				"Origin:http://hospitality.city.ac.uk\r\n".
 				"Referer:http://hospitality.city.ac.uk/\r\n".
@@ -29,5 +32,8 @@
 		$data = file_get_contents($url,false,$context);
 	}
 	
+		//dumping headers for later viewing
+		log_it("Http Response Header Dump! ". var_export($http_response_header,true));
+		
 	echo $data;
 ?>
