@@ -1,0 +1,17 @@
+<?php	
+	//write to cookies.json
+	function write($cookies){
+		//get json for cookie array
+		$out = json_encode($cookies);
+		//try to write to cookies.json
+		if(!file_put_contents("cookies.json", $out, LOCK_EX)){
+			//if we fail, log it!!
+			$message = "\r\nERROR!! Unable to write to cookies.json!! at " . date("F j, Y, g:i a");
+			file_put_contents("log", $message, FILE_APPEND)
+		}
+	}
+	function read(){
+	
+	}
+
+?>
