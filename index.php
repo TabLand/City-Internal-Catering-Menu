@@ -1,9 +1,12 @@
 <?php
 	//disable error reporting to hide circular redirect errors. TO DO Remove this line and find out what a circular redirect is, and how it can be avoided.
 	//error_reporting(0);
+	
 	include "useragent.php";
 	include "cookies.php";
-	include "logger.php";	
+	include "logger.php";
+	include "header.php";
+	
 	//load cookies
 	$cookies = read_cookies();
 	
@@ -20,7 +23,8 @@
 				"User-Agent: $useragent\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
-				"content" => http_build_query($_POST)
+				"content" => http_build_query($_POST),
+				"timeout" => 1
 				));
 				
 	//main url. Visit atleast once to get a valid asp session cookie
@@ -29,10 +33,12 @@
 	
 	//get data and headers
 	$data =  file_get_contents($url, false, $context);
-	//dumping headers for later viewing
+
+	//dumping headers for later debugging
 	log_it("Http Response Header dump! " . var_export($http_response_header,true));
+	//return the headers.
+	header(arrayToHttpHeader($http_response_header));
 	
-  	header("Content-Type: text/html");
 	$cookies_temp = array();
 	foreach ($http_response_header as $hdr) {
 	    if (preg_match('/^Set-Cookie:\s*([^;]+)/', $hdr, $matches)) {
@@ -57,17 +63,13 @@
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
 				"content" => http_build_query($_POST)
-				));
+			)
+		);
 
 	
-	/*//show request headers
-	print_r(getAllHeaders());
-	//show response headers
-	echo "<br/><br/><br/>";
-	print_r($http_response_header);
-	foreach($cookies as $cname => $cvalue){
-		setcookie($cname,$cvalue);
-	}*/
+	
+	log_it("Http request header dump! " . var_export($opts,true));
+	
 	$url = "http://hospitality.city.ac.uk/ViewMenu.aspx?" . http_build_query($_GET);
 	$context = stream_context_create($opts);
 	$data =  file_get_contents($url, false, $context);
