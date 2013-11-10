@@ -1,5 +1,0 @@
-<?php
-	$url = "http://hospitality.city.ac.uk/Stylesheet1.css";
-	$data = file_get_contents($url);
-	echo $data;
-?>
