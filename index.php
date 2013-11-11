@@ -6,38 +6,34 @@
 	include "cookies.php";
 	include "logger.php";
 	include "header.php";
-	
+
 	//load cookies
-	$cookies = read_cookies();
-	
-	//create http request header array
+	$cookies = read_cookies();	
 	$opts = array(
 			'http'=>array(
 				'header'=>
-				"Content-Type:application/x-www-form-urlencoded\r\n".
-				//conv_cookies4headers($cookies) .
+				"Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8\r\n".
+				"Accept-Encoding: gzip, deflate\r\n".
+				"Accept-Language: en-gb, en; q=0.5\r\n".
+				"Connection: keep-alive\r\n".
+				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
-				//these two lines may be causing the circular redirect error?
-				"Origin:http://hospitality.city.ac.uk\r\n".
-				"Referer:http://hospitality.city.ac.uk/\r\n".
-				"User-Agent: $useragent\r\n".
-				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
-				"method" => "POST",
-				"content" => http_build_query($_POST),
-				));
-				
+				"User-Agent: $useragent\r\n"
+			)
+		);	
+
+	$context = stream_context_create($opts);		
 	//main url. Visit atleast once to get a valid asp session cookie
 	$url = "http://hospitality.city.ac.uk/Default.aspx?" . http_build_query($_GET);
-	$context = stream_context_create($opts);
 	
 	//get data and headers
-	$data =  file_get_contents($url, false, $context);
-
-	//dumping headers for later debugging
-	log_it("Http Response Header dump! " . var_export($http_response_header,true));
-	//return the headers.
-	header(arrayToHttpHeader($http_response_header));
+	$data =  file_get_contents($url,$false, $context);
 	
+	//dumping headers for later debugging
+	log_it("Http Response Header dump! Default.aspx" . var_export($http_response_header,true));
+	//return the headers, and replace previous headers
+	arrayToHttpHeader($http_response_header);
+
 	$cookies_temp = array();
 	foreach ($http_response_header as $hdr) {
 	    if (preg_match('/^Set-Cookie:\s*([^;]+)/', $hdr, $matches)) {
@@ -53,12 +49,15 @@
 	$opts = array(
 			'http'=>array(
 				'header'=>
-				"Content-Type:application/x-www-form-urlencoded\r\n".
+				"Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8\r\n".
+				"Accept-Encoding: gzip, deflate\r\n".
+				"Accept-Language: en-gb, en; q=0.5\r\n".
+				"Connection: keep-alive\r\n".
 				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
-				"Origin:http://hospitality.city.ac.uk\r\n".
 				"Referer:http://hospitality.city.ac.uk/\r\n".
 				"User-Agent: $useragent\r\n".
+				"Content-Type: application/x-www-form-urlencoded\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
 				"content" => http_build_query($_POST)
@@ -72,6 +71,9 @@
 	$url = "http://hospitality.city.ac.uk/ViewMenu.aspx?" . http_build_query($_GET);
 	$context = stream_context_create($opts);
 	$data =  file_get_contents($url, false, $context);
+	
+	//dumping headers for later debugging
+	log_it("Http Response Header dump! ViewMenu.aspx" . var_export($http_response_header,true));	
 	
 	$data = str_replace("&amp;","&",$data);
 	$data = str_replace("/ScriptResource.axd","ScriptResource.php",$data);

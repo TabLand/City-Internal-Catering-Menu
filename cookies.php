@@ -13,41 +13,25 @@
 		}
 		
 		//get dump for cookie array
-		$out = export_cookies($cookies);
+		$out = var_export($cookies,true);
+		
+		foreach($cookies as $cname=>$value){
+			setcookie($cname,$cvalue);
+			$_COOKIE[$cname] = $cvalue;
+		}
 		
 		log_it("Attempting to update cookies. Dump: " . $out);
-		
-		//try to write to cookies.json
-		//A security risk - cookie_jar file permissions are set to 777, as student.city will not allow writes to files unless they have public write permissions. Very strange.
-		
-		//Must replace this with a database when have more spare time
-		//cannot use json, as json functions do not exist on the available version of php on student.city
-		$write = file_put_contents("cookie_jar", $out, LOCK_EX);
-	
-		if($write){
-			return true;
-		}
-		else {
-			//if we fail, log it!!
-			log_it("ERROR!! Unable to write to cookie_jar!!");
-			return false;
-		}
 	}
 	
 	function read_cookies(){
-		//get dump for cookie array
-		$read = file_get_contents("cookie_jar");
-
-		if($read) {
-			//decode dump
-			$in = import_cookies($read);
-			return $in;
+		$cookies = $_COOKIE;
+		//bugfix of ASP.NET_SessionId cookies being renamed ASP_NET_SessionId for an unknown reason
+		if(array_key_exists("ASP_NET_SessionId", $cookies)){
+			$cookies["ASP.NET_SessionId"] = $cookies["ASP_NET_SessionId"];
+			log_it("ASP.NET Bug fix succeeded");
+			log_it("Cookie dump " . var_export($cookies, true));
 		}
-		else{
-			//if we fail, log it!!
-			log_it("ERROR!! Unable to read from cookie_jar!!");
-			return false;
-		}
+		return $cookies;
 	}
 	//converting a cookie array for use in http request headers using file_get_contents()
 	function conv_cookies4headers($cookies){	
@@ -72,20 +56,4 @@
 		return $cheader;
 	}
 	
-	function export_cookies($cookies){
-		$exp = "";
-		foreach($cookies as $cname=>$cvalue){
-			$exp .= $cname . "=" . $cvalue . ";";
-		}
-		return $exp;
-	}
-	function import_cookies($text){
-		$cookies = array();
-		$cookie_rows = explode(";",$text);
-		foreach($cookie_rows as $cookie_row){
-			$temp = explode("=",$cookie_row);
-			if($temp[0]!="" && $temp[1]!="") $cookies[$temp[0]] = $temp[1];
-		}
-		return $cookies;
-	}
 ?>

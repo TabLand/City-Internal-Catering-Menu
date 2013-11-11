@@ -1,11 +1,10 @@
 <?php
 	function arrayToHttpHeader($headers){
-	
-		$raw = "";
+		log_it(" HTTP response header dump, by header.php " . var_export($headers,true));
 		foreach($headers as $header){
-			if (strpos($header,'Content-Length') === false)	$raw .= $header . "\r\n";
+			//this line checks to make sure the Content-Length header is not added, this can trigger a duplicate content-length http error
+			header($header . "\r\n", true);
 		}
-		return $raw;
 	}
 	function build_request_array($cookies, $post){
 	
