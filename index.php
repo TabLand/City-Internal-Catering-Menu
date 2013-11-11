@@ -15,7 +15,7 @@
 			'http'=>array(
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
-				conv_cookies4headers($cookies) .
+				//conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
 				//these two lines may be causing the circular redirect error?
 				"Origin:http://hospitality.city.ac.uk\r\n".
@@ -55,6 +55,9 @@
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
 				conv_cookies4headers($cookies) .
+				"Host:hospitality.city.ac.uk\r\n".
+				"Origin:http://hospitality.city.ac.uk\r\n".
+				"Referer:http://hospitality.city.ac.uk/\r\n".
 				"User-Agent: $useragent\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
@@ -70,7 +73,7 @@
 	$context = stream_context_create($opts);
 	$data =  file_get_contents($url, false, $context);
 	
-	//$data = str_replace("&amp;","&",$data);
+	$data = str_replace("&amp;","&",$data);
 	$data = str_replace("/ScriptResource.axd","ScriptResource.php",$data);
   	$data = str_replace("/WebResource.axd","WebResource.php",$data);
   	$data = str_replace("Default.aspx","index.php",$data);

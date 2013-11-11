@@ -3,21 +3,17 @@
 	include "logger.php";
 	include "useragent.php";
 	
-	if (strpos($_GET["f"],'.css') !== false) header("Content-type: text/css");
-	elseif(strpos($_GET["f"],'.jpg') !== false) header("Content-type: image/jpeg");
-	elseif(strpos($_GET["f"],'.png') !==false ) header("Content-type: image/png");
-	$_GET["f"] = str_replace(" ","%20",$_GET["f"]);
+	$cookies = read_cookies();
+	
+	$_GET["f"] = str_replace(" ","%20",$_GET["f"]);	
+	
 	if(strpos($_GET["f"],'MakeThumbnail.aspx') !==false )	{ 
 		$_GET["f"] = str_replace("MakeThumbnail.aspxQuestionProductIDEquals","MakeThumbnail.aspx?ProductID=",$_GET["f"]);
-		$cookies1 = "ASP.NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";
-		$cookies1 .= "ASP_NET_SessionId=".$_COOKIE["ASP_NET_SessionId"].";";	
+		
 		$opts = array('http'=>array(
 				'header'=>
 				"Content-Type:application/x-www-form-urlencoded\r\n".
 				conv_cookies4headers($cookies) .
-				"Host:hospitality.city.ac.uk\r\n".
-				"Origin:http://hospitality.city.ac.uk\r\n".
-				"Referer:http://hospitality.city.ac.uk/\r\n".
 				"User-Agent: $useragent\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
@@ -33,8 +29,10 @@
 		$data = file_get_contents($url,false,$context);
 	}
 	
-		//dumping headers for later viewing
-		log_it("Http Response Header Dump! ". var_export($http_response_header,true));
-		
+	//dumping headers for later viewing
+	log_it("Http Response Header Dump! ". var_export($http_response_header,true));
+	
+	header(arrayToHttpHeader($http_response_header));
+	
 	echo $data;
 ?>

@@ -1,0 +1,3680 @@
+
+ERROR!! Unable to read from cookies.json!! on November 10, 2013, 12:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 12:19:56 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=suhx41vj54ayr1atwjwxob55; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 12:19 pm
+
+
+ERROR!! Unable to read from cookies.json!! on November 10, 2013, 1:05 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:05:38 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=i2rllsv5fu4vxrrelk2ppl45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:05 pm
+
+
+ERROR!! Unable to read from cookies.json!! on November 10, 2013, 1:12 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:12:37 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=m1jnkq3wp0xl1345dz3pbjyq; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:12 pm
+
+
+ERROR!! Unable to read from cookies.json!! on November 10, 2013, 1:13 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:13:58 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=5y1cky45ucdcfsq5v1mkznqh; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:13 pm
+
+
+ERROR!! Unable to read from cookie_jar.json!! on November 10, 2013, 1:15 pm
+
+false on November 10, 2013, 1:15 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:15:56 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=iya5xmmj13gdfr45jctl0a45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:15 pm
+
+
+ERROR!! Unable to read from cookie_jar.json!! on November 10, 2013, 1:15 pm
+
+false on November 10, 2013, 1:15 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:15:59 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=tsqyrf55bbtuyg45yic1chrc; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:15 pm
+
+
+ERROR!! Unable to read from cookie_jar.json!! on November 10, 2013, 1:17 pm
+
+false on November 10, 2013, 1:17 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:17:36 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=41oqgz45ro20k1554rxfetfm; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:17 pm
+
+ERROR!! Unable to read from cookie_jar.ser!! on November 10, 2013, 1:26 pm
+
+false on November 10, 2013, 1:26 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:26:41 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=imesxrqb4arujs45sujnfy34; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:26 pm
+
+ERROR!! Unable to write to cookie_jar.ser!! on November 10, 2013, 1:26 pm
+
+array (
+  'ASP_NET_SessionId' => 'imesxrqb4arujs45sujnfy34',
+) on November 10, 2013, 1:26 pm
+
+ERROR!! Unable to read from cookie_jar.ser!! on November 10, 2013, 1:27 pm
+
+false on November 10, 2013, 1:27 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:27:21 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=2opj4v45wpnidwqljkfnloeg; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:27 pm
+
+array (
+  'ASP_NET_SessionId' => '2opj4v45wpnidwqljkfnloeg',
+) on November 10, 2013, 1:27 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=2opj4v45wpnidwqljkfnloeg;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=2opj4v45wpnidwqljkfnloeg;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=2opj4v45wpnidwqljkfnloeg;
+ on November 10, 2013, 1:33 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:33:44 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=43v0spz5iljag145m5fa0afi; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=43v0spz5iljag145m5fa0afi;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=43v0spz5iljag145m5fa0afi;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=43v0spz5iljag145m5fa0afi;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=43v0spz5iljag145m5fa0afi;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=43v0spz5iljag145m5fa0afi;
+ on November 10, 2013, 1:33 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:33:56 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=ulo2csfhunlx4p455hwwy345; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ulo2csfhunlx4p455hwwy345;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ulo2csfhunlx4p455hwwy345;
+ on November 10, 2013, 1:33 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ulo2csfhunlx4p455hwwy345;
+ on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ulo2csfhunlx4p455hwwy345;
+ on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ulo2csfhunlx4p455hwwy345;
+ on November 10, 2013, 1:39 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:39:50 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=0xrc0j45pzyhp245s22b1h45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=0xrc0j45pzyhp245s22b1h45;
+ on November 10, 2013, 1:41 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:41:49 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=vgsfgrrrw5uc1h55kvtzilr5;
+ on November 10, 2013, 1:44 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:44:47 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=wdf2ivu53qweiiuofzllotir; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:44 pm
+
+Attempting to update cookies on November 10, 2013, 1:44 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wdf2ivu53qweiiuofzllotir;
+ on November 10, 2013, 1:44 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wdf2ivu53qweiiuofzllotir;
+ on November 10, 2013, 1:44 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wdf2ivu53qweiiuofzllotir;
+ on November 10, 2013, 1:44 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wdf2ivu53qweiiuofzllotir;
+ on November 10, 2013, 1:45 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wdf2ivu53qweiiuofzllotir;
+ on November 10, 2013, 1:47 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:47:38 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=igfnp345wlbt4l45dfgkex45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:47 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:47 pm
+
+Attempting to update cookies on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=igfnp345wlbt4l45dfgkex45;
+ on November 10, 2013, 1:48 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:48:52 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=aez41nifvixwzcfklumlx4i4; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:48 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:48 pm
+
+Attempting to update cookies on November 10, 2013, 1:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=aez41nifvixwzcfklumlx4i4;
+ on November 10, 2013, 1:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=aez41nifvixwzcfklumlx4i4;
+ on November 10, 2013, 1:48 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:48:54 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=4ermc0zslwkpee45polqqfyx; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:48 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:48 pm
+
+Attempting to update cookies on November 10, 2013, 1:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=4ermc0zslwkpee45polqqfyx;
+ on November 10, 2013, 1:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=4ermc0zslwkpee45polqqfyx;
+ on November 10, 2013, 1:50 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:50:52 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=hrp3p045gmbsf5vrbmvmgx55; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:50 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:50 pm
+
+Attempting to update cookies on November 10, 2013, 1:50 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hrp3p045gmbsf5vrbmvmgx55;
+ on November 10, 2013, 1:50 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hrp3p045gmbsf5vrbmvmgx55;
+ on November 10, 2013, 1:50 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:50:55 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=hrzk1j55azotwu55b5mvstih; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:50 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:50 pm
+
+Attempting to update cookies on November 10, 2013, 1:50 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hrzk1j55azotwu55b5mvstih;
+ on November 10, 2013, 1:50 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hrzk1j55azotwu55b5mvstih;
+ on November 10, 2013, 1:51 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:51:25 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=f24lhkq5rew2nwysnq4qruby; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:51 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:51 pm
+
+Cookie dumparray (
+  'ASP_NET_SessionId' => 'f24lhkq5rew2nwysnq4qruby',
+  'ASP.NET_SessionId' => 'f24lhkq5rew2nwysnq4qruby',
+) on November 10, 2013, 1:51 pm
+
+Attempting to update cookies on November 10, 2013, 1:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=f24lhkq5rew2nwysnq4qruby;
+ on November 10, 2013, 1:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=f24lhkq5rew2nwysnq4qruby;
+ on November 10, 2013, 1:52 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:52:53 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=hqryvhzkt4sfsze34wo0ft45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:52 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:52 pm
+
+Cookie dumparray (
+  'ASP_NET_SessionId' => 'hqryvhzkt4sfsze34wo0ft45',
+  'ASP.NET_SessionId' => 'hqryvhzkt4sfsze34wo0ft45',
+) on November 10, 2013, 1:52 pm
+
+Attempting to update cookies on November 10, 2013, 1:52 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hqryvhzkt4sfsze34wo0ft45;
+ on November 10, 2013, 1:52 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=hqryvhzkt4sfsze34wo0ft45;
+ on November 10, 2013, 1:52 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:52:55 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=ofqelijywptmxwn34gv4pdu0; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:52 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:52 pm
+
+Cookie dumparray (
+  'ASP_NET_SessionId' => 'ofqelijywptmxwn34gv4pdu0',
+  'ASP.NET_SessionId' => 'ofqelijywptmxwn34gv4pdu0',
+) on November 10, 2013, 1:52 pm
+
+Attempting to update cookies on November 10, 2013, 1:52 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ofqelijywptmxwn34gv4pdu0;
+ on November 10, 2013, 1:52 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=ofqelijywptmxwn34gv4pdu0;
+ on November 10, 2013, 1:54 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 13:54:13 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=fzs2houeqjj5guicuhgwhg55; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 1:54 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 1:54 pm
+
+Cookie dump array (
+  'ASP_NET_SessionId' => 'fzs2houeqjj5guicuhgwhg55',
+  'ASP.NET_SessionId' => 'fzs2houeqjj5guicuhgwhg55',
+) on November 10, 2013, 1:54 pm
+
+Attempting to update cookies. Serialized dump: a:1:{s:17:"ASP_NET_SessionId";s:24:"fzs2houeqjj5guicuhgwhg55";} on November 10, 2013, 1:54 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=fzs2houeqjj5guicuhgwhg55;
+ on November 10, 2013, 1:54 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=fzs2houeqjj5guicuhgwhg55;
+ on November 10, 2013, 3:20 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 15:20:40 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=urritrm5dosynx45mxq35f45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 3:20 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 3:20 pm
+
+Cookie dump array (
+  'ASP_NET_SessionId' => 'urritrm5dosynx45mxq35f45',
+  'ASP.NET_SessionId' => 'urritrm5dosynx45mxq35f45',
+) on November 10, 2013, 3:20 pm
+
+Attempting to update cookies. Serialized dump: a:1:{s:17:"ASP_NET_SessionId";s:24:"urritrm5dosynx45mxq35f45";} on November 10, 2013, 3:20 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=urritrm5dosynx45mxq35f45;
+ on November 10, 2013, 3:20 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=urritrm5dosynx45mxq35f45;
+ on November 10, 2013, 4:06 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=urritrm5dosynx45mxq35f45;
+ on November 10, 2013, 4:06 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 16:06:41 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=s1rzk3zn2zya1f552fv2ue55; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 19912',
+) on November 10, 2013, 4:06 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 4:06 pm
+
+Cookie dump array (
+  'ASP_NET_SessionId' => 's1rzk3zn2zya1f552fv2ue55',
+  'ASP.NET_SessionId' => 's1rzk3zn2zya1f552fv2ue55',
+) on November 10, 2013, 4:06 pm
+
+Attempting to update cookies. Serialized dump: a:1:{s:17:"ASP_NET_SessionId";s:24:"s1rzk3zn2zya1f552fv2ue55";} on November 10, 2013, 4:06 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:06 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:06 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:06 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:09 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:09 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:10 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=s1rzk3zn2zya1f552fv2ue55;
+ on November 10, 2013, 4:11 pm
+
+ERROR!! Unable to read from cookie_jar.ser!! on November 10, 2013, 4:39 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:39 pm
+
+ERROR!! Unable to read from cookie_jar.ser!! on November 10, 2013, 4:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:41 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 4:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:41 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:42 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:42 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 16:42:54 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=wyt51tmawwcn03y1wjrr34iu; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 19912',
+) on November 10, 2013, 4:42 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 4:42 pm
+
+Cookie dump array (
+  'ASP_NET_SessionId' => 'wyt51tmawwcn03y1wjrr34iu',
+  'ASP.NET_SessionId' => 'wyt51tmawwcn03y1wjrr34iu',
+) on November 10, 2013, 4:42 pm
+
+Attempting to update cookies. Serialized dump: ASP_NET_SessionId=wyt51tmawwcn03y1wjrr34iu;
+ on November 10, 2013, 4:42 pm
+
+ERROR!! Unable to write to cookie_jar!! on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=wyt51tmawwcn03y1wjrr34iu;
+ on November 10, 2013, 4:42 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:42 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 4:42 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd
+ASP_NET_SessionId;
+ on November 10, 2013, 4:47 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:48 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:49 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:49 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId;
+ on November 10, 2013, 4:49 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods;
+=;
+ on November 10, 2013, 4:50 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods;
+ on November 10, 2013, 4:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods;
+ on November 10, 2013, 4:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods;
+ on November 10, 2013, 4:51 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 16:51:48 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=gbihtvmk1yzewxrejbfvnk45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 4:51 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 4:51 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'gbihtvmk1yzewxrejbfvnk45',
+  'ASP_NET_SessionId' => 'gbihtvmk1yzewxrejbfvnk45',
+) on November 10, 2013, 4:51 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=gbihtvmk1yzewxrejbfvnk45; on November 10, 2013, 4:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=gbihtvmk1yzewxrejbfvnk45;
+ on November 10, 2013, 4:51 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=gbihtvmk1yzewxrejbfvnk45;
+ on November 10, 2013, 4:59 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 16:59:37 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=nw1req45jlnnh445wluux555; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 4:59 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 4:59 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'nw1req45jlnnh445wluux555',
+  'ASP_NET_SessionId' => 'nw1req45jlnnh445wluux555',
+) on November 10, 2013, 4:59 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555; on November 10, 2013, 4:59 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555;
+ on November 10, 2013, 4:59 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555;
+ on November 10, 2013, 4:59 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555;
+ on November 10, 2013, 4:59 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555;
+ on November 10, 2013, 4:59 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=nw1req45jlnnh445wluux555;
+ on November 10, 2013, 5:00 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:00:23 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=hfnbsli35brtwn55cgbtwq45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:00 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:00 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'hfnbsli35brtwn55cgbtwq45',
+  'ASP_NET_SessionId' => 'hfnbsli35brtwn55cgbtwq45',
+) on November 10, 2013, 5:00 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=hfnbsli35brtwn55cgbtwq45; on November 10, 2013, 5:00 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=hfnbsli35brtwn55cgbtwq45;
+ on November 10, 2013, 5:00 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=hfnbsli35brtwn55cgbtwq45;
+ on November 10, 2013, 5:04 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:04:09 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=ef50oubwyxf2jh45kdjeaf3v; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:04 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:04 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'ef50oubwyxf2jh45kdjeaf3v',
+  'ASP_NET_SessionId' => 'ef50oubwyxf2jh45kdjeaf3v',
+) on November 10, 2013, 5:04 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=ef50oubwyxf2jh45kdjeaf3v; on November 10, 2013, 5:04 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=ef50oubwyxf2jh45kdjeaf3v;
+ on November 10, 2013, 5:04 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=ef50oubwyxf2jh45kdjeaf3v;
+ on November 10, 2013, 5:09 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:09:53 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=la1s3rrj4xg5kqeprkl1fpna; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:09 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:09 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'la1s3rrj4xg5kqeprkl1fpna',
+  'ASP_NET_SessionId' => 'la1s3rrj4xg5kqeprkl1fpna',
+) on November 10, 2013, 5:09 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=la1s3rrj4xg5kqeprkl1fpna; on November 10, 2013, 5:09 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=la1s3rrj4xg5kqeprkl1fpna;
+ on November 10, 2013, 5:09 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=la1s3rrj4xg5kqeprkl1fpna;
+ on November 10, 2013, 5:11 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:11:13 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=h2005z45xwesxfyeiryf2k45; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:11 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:11 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'h2005z45xwesxfyeiryf2k45',
+  'ASP_NET_SessionId' => 'h2005z45xwesxfyeiryf2k45',
+) on November 10, 2013, 5:11 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=h2005z45xwesxfyeiryf2k45; on November 10, 2013, 5:11 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=h2005z45xwesxfyeiryf2k45;
+ on November 10, 2013, 5:11 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=h2005z45xwesxfyeiryf2k45;
+ on November 10, 2013, 5:14 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:14:01 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=rttlwgyudfvsixzfwyply045; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:14 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:14 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => 'rttlwgyudfvsixzfwyply045',
+  'ASP_NET_SessionId' => 'rttlwgyudfvsixzfwyply045',
+) on November 10, 2013, 5:14 pm
+
+Attempting to update cookies. Serialized dump: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=rttlwgyudfvsixzfwyply045; on November 10, 2013, 5:14 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=rttlwgyudfvsixzfwyply045;
+ on November 10, 2013, 5:14 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=rttlwgyudfvsixzfwyply045;
+ on November 10, 2013, 5:14 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=rttlwgyudfvsixzfwyply045;
+ on November 10, 2013, 5:16 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:16:44 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=03riwov3cey4a545gkays0rr; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:16 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:16 pm
+
+Cookie dump array (
+  'ASP.NET_SessionId' => '03riwov3cey4a545gkays0rr',
+  'ASP_NET_SessionId' => '03riwov3cey4a545gkays0rr',
+) on November 10, 2013, 5:16 pm
+
+Attempting to update cookies. Dump: ASP.NET_SessionId=03riwov3cey4a545gkays0rr;ASP_NET_SessionId=03riwov3cey4a545gkays0rr; on November 10, 2013, 5:16 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=03riwov3cey4a545gkays0rr;
+ on November 10, 2013, 5:16 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=03riwov3cey4a545gkays0rr;ASP_NET_SessionId=03riwov3cey4a545gkays0rr;
+ on November 10, 2013, 5:16 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=03riwov3cey4a545gkays0rr;ASP_NET_SessionId=03riwov3cey4a545gkays0rr;
+ on November 10, 2013, 5:19 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:19:02 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Cache-Control: private',
+  7 => 'Content-Type: text/html; charset=utf-8',
+  8 => 'Content-Length: 22125',
+) on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=03riwov3cey4a545gkays0rr;ASP_NET_SessionId=03riwov3cey4a545gkays0rr;
+ on November 10, 2013, 5:19 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP.NET_SessionId=03riwov3cey4a545gkays0rr;ASP_NET_SessionId=03riwov3cey4a545gkays0rr;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:03 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers  on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:03 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers  on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers  on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:03 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers  on November 10, 2013, 5:19 pm
+
+Cookie Dump! conv_cookies4headers  on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 11902',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Wed, 08 Oct 2008 18:33:04 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "030e84c7429c91:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:03 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:05 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:19:05 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:19 pm
+
+array (
+) on November 10, 2013, 5:21 pm
+
+array (
+) on November 10, 2013, 5:21 pm
+
+array (
+) on November 10, 2013, 5:21 pm
+
+array (
+) on November 10, 2013, 5:21 pm
+
+array (
+) on November 10, 2013, 5:21 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:32 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 17:32:09 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 5:32 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:32 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 17:32:31 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 5:32 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:32 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:32 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:38 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:38 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 17:38:26 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 5:38 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+ on November 10, 2013, 5:38 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP.NET_SessionId=andsodnoasnd;ASP_NET_SessionId=abjdknaods
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:38 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 5:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: 
+ on November 10, 2013, 5:41 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:41:13 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Set-Cookie: ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4; path=/; HttpOnly',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 22125',
+) on November 10, 2013, 5:41 pm
+
+ASP.NET Bug fix succeeded on November 10, 2013, 5:41 pm
+
+Cookie dump array (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:41 pm
+
+Attempting to update cookies. Dump: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4; on November 10, 2013, 5:41 pm
+
+Cookie Dump! conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:41 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:41 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:49 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:49:24 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Cache-Control: private',
+  7 => 'Content-Type: text/html; charset=utf-8',
+  8 => 'Content-Length: 22125',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:49 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:25 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:25 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:25 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:25 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:49 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:49:32 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Cache-Control: private',
+  7 => 'Content-Type: text/html; charset=utf-8',
+  8 => 'Content-Length: 22125',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:49 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:32 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:32 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:32 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:49:33 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:49 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:50 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:50:25 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Cache-Control: private',
+  7 => 'Content-Type: text/html; charset=utf-8',
+  8 => 'Content-Length: 22125',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:50 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:26 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:26 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:26 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:26 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:50 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 302 Found',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:50:28 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Location: /ErrorPage.aspx',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 134',
+  10 => 'HTTP/1.1 302 Found',
+  11 => 'Connection: close',
+  12 => 'Date: Sun, 10 Nov 2013 17:50:28 GMT',
+  13 => 'Server: Microsoft-IIS/6.0',
+  14 => 'X-Powered-By: ASP.NET',
+  15 => 'X-AspNet-Version: 2.0.50727',
+  16 => 'Location: /ErrorPage.aspx',
+  17 => 'Cache-Control: private',
+  18 => 'Content-Type: text/html; charset=utf-8',
+  19 => 'Content-Length: 134',
+  20 => 'HTTP/1.1 302 Found',
+  21 => 'Connection: close',
+  22 => 'Date: Sun, 10 Nov 2013 17:50:28 GMT',
+  23 => 'Server: Microsoft-IIS/6.0',
+  24 => 'X-Powered-By: ASP.NET',
+  25 => 'X-AspNet-Version: 2.0.50727',
+  26 => 'Location: /ErrorPage.aspx',
+  27 => 'Cache-Control: private',
+  28 => 'Content-Type: text/html; charset=utf-8',
+  29 => 'Content-Length: 134',
+  30 => 'HTTP/1.1 302 Found',
+  31 => 'Connection: close',
+  32 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  33 => 'Server: Microsoft-IIS/6.0',
+  34 => 'X-Powered-By: ASP.NET',
+  35 => 'X-AspNet-Version: 2.0.50727',
+  36 => 'Location: /ErrorPage.aspx',
+  37 => 'Cache-Control: private',
+  38 => 'Content-Type: text/html; charset=utf-8',
+  39 => 'Content-Length: 134',
+  40 => 'HTTP/1.1 302 Found',
+  41 => 'Connection: close',
+  42 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  43 => 'Server: Microsoft-IIS/6.0',
+  44 => 'X-Powered-By: ASP.NET',
+  45 => 'X-AspNet-Version: 2.0.50727',
+  46 => 'Location: /ErrorPage.aspx',
+  47 => 'Cache-Control: private',
+  48 => 'Content-Type: text/html; charset=utf-8',
+  49 => 'Content-Length: 134',
+  50 => 'HTTP/1.1 302 Found',
+  51 => 'Connection: close',
+  52 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  53 => 'Server: Microsoft-IIS/6.0',
+  54 => 'X-Powered-By: ASP.NET',
+  55 => 'X-AspNet-Version: 2.0.50727',
+  56 => 'Location: /ErrorPage.aspx',
+  57 => 'Cache-Control: private',
+  58 => 'Content-Type: text/html; charset=utf-8',
+  59 => 'Content-Length: 134',
+  60 => 'HTTP/1.1 302 Found',
+  61 => 'Connection: close',
+  62 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  63 => 'Server: Microsoft-IIS/6.0',
+  64 => 'X-Powered-By: ASP.NET',
+  65 => 'X-AspNet-Version: 2.0.50727',
+  66 => 'Location: /ErrorPage.aspx',
+  67 => 'Cache-Control: private',
+  68 => 'Content-Type: text/html; charset=utf-8',
+  69 => 'Content-Length: 134',
+  70 => 'HTTP/1.1 302 Found',
+  71 => 'Connection: close',
+  72 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  73 => 'Server: Microsoft-IIS/6.0',
+  74 => 'X-Powered-By: ASP.NET',
+  75 => 'X-AspNet-Version: 2.0.50727',
+  76 => 'Location: /ErrorPage.aspx',
+  77 => 'Cache-Control: private',
+  78 => 'Content-Type: text/html; charset=utf-8',
+  79 => 'Content-Length: 134',
+  80 => 'HTTP/1.1 302 Found',
+  81 => 'Connection: close',
+  82 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  83 => 'Server: Microsoft-IIS/6.0',
+  84 => 'X-Powered-By: ASP.NET',
+  85 => 'X-AspNet-Version: 2.0.50727',
+  86 => 'Location: /ErrorPage.aspx',
+  87 => 'Cache-Control: private',
+  88 => 'Content-Type: text/html; charset=utf-8',
+  89 => 'Content-Length: 134',
+  90 => 'HTTP/1.1 302 Found',
+  91 => 'Connection: close',
+  92 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  93 => 'Server: Microsoft-IIS/6.0',
+  94 => 'X-Powered-By: ASP.NET',
+  95 => 'X-AspNet-Version: 2.0.50727',
+  96 => 'Location: /ErrorPage.aspx',
+  97 => 'Cache-Control: private',
+  98 => 'Content-Type: text/html; charset=utf-8',
+  99 => 'Content-Length: 134',
+  100 => 'HTTP/1.1 302 Found',
+  101 => 'Connection: close',
+  102 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  103 => 'Server: Microsoft-IIS/6.0',
+  104 => 'X-Powered-By: ASP.NET',
+  105 => 'X-AspNet-Version: 2.0.50727',
+  106 => 'Location: /ErrorPage.aspx',
+  107 => 'Cache-Control: private',
+  108 => 'Content-Type: text/html; charset=utf-8',
+  109 => 'Content-Length: 134',
+  110 => 'HTTP/1.1 302 Found',
+  111 => 'Connection: close',
+  112 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  113 => 'Server: Microsoft-IIS/6.0',
+  114 => 'X-Powered-By: ASP.NET',
+  115 => 'X-AspNet-Version: 2.0.50727',
+  116 => 'Location: /ErrorPage.aspx',
+  117 => 'Cache-Control: private',
+  118 => 'Content-Type: text/html; charset=utf-8',
+  119 => 'Content-Length: 134',
+  120 => 'HTTP/1.1 302 Found',
+  121 => 'Connection: close',
+  122 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  123 => 'Server: Microsoft-IIS/6.0',
+  124 => 'X-Powered-By: ASP.NET',
+  125 => 'X-AspNet-Version: 2.0.50727',
+  126 => 'Location: /ErrorPage.aspx',
+  127 => 'Cache-Control: private',
+  128 => 'Content-Type: text/html; charset=utf-8',
+  129 => 'Content-Length: 134',
+  130 => 'HTTP/1.1 302 Found',
+  131 => 'Connection: close',
+  132 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  133 => 'Server: Microsoft-IIS/6.0',
+  134 => 'X-Powered-By: ASP.NET',
+  135 => 'X-AspNet-Version: 2.0.50727',
+  136 => 'Location: /ErrorPage.aspx',
+  137 => 'Cache-Control: private',
+  138 => 'Content-Type: text/html; charset=utf-8',
+  139 => 'Content-Length: 134',
+  140 => 'HTTP/1.1 302 Found',
+  141 => 'Connection: close',
+  142 => 'Date: Sun, 10 Nov 2013 17:50:29 GMT',
+  143 => 'Server: Microsoft-IIS/6.0',
+  144 => 'X-Powered-By: ASP.NET',
+  145 => 'X-AspNet-Version: 2.0.50727',
+  146 => 'Location: /ErrorPage.aspx',
+  147 => 'Cache-Control: private',
+  148 => 'Content-Type: text/html; charset=utf-8',
+  149 => 'Content-Length: 134',
+  150 => 'HTTP/1.1 302 Found',
+  151 => 'Connection: close',
+  152 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  153 => 'Server: Microsoft-IIS/6.0',
+  154 => 'X-Powered-By: ASP.NET',
+  155 => 'X-AspNet-Version: 2.0.50727',
+  156 => 'Location: /ErrorPage.aspx',
+  157 => 'Cache-Control: private',
+  158 => 'Content-Type: text/html; charset=utf-8',
+  159 => 'Content-Length: 134',
+  160 => 'HTTP/1.1 302 Found',
+  161 => 'Connection: close',
+  162 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  163 => 'Server: Microsoft-IIS/6.0',
+  164 => 'X-Powered-By: ASP.NET',
+  165 => 'X-AspNet-Version: 2.0.50727',
+  166 => 'Location: /ErrorPage.aspx',
+  167 => 'Cache-Control: private',
+  168 => 'Content-Type: text/html; charset=utf-8',
+  169 => 'Content-Length: 134',
+  170 => 'HTTP/1.1 302 Found',
+  171 => 'Connection: close',
+  172 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  173 => 'Server: Microsoft-IIS/6.0',
+  174 => 'X-Powered-By: ASP.NET',
+  175 => 'X-AspNet-Version: 2.0.50727',
+  176 => 'Location: /ErrorPage.aspx',
+  177 => 'Cache-Control: private',
+  178 => 'Content-Type: text/html; charset=utf-8',
+  179 => 'Content-Length: 134',
+  180 => 'HTTP/1.1 302 Found',
+  181 => 'Connection: close',
+  182 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  183 => 'Server: Microsoft-IIS/6.0',
+  184 => 'X-Powered-By: ASP.NET',
+  185 => 'X-AspNet-Version: 2.0.50727',
+  186 => 'Location: /ErrorPage.aspx',
+  187 => 'Cache-Control: private',
+  188 => 'Content-Type: text/html; charset=utf-8',
+  189 => 'Content-Length: 134',
+  190 => 'HTTP/1.1 302 Found',
+  191 => 'Connection: close',
+  192 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  193 => 'Server: Microsoft-IIS/6.0',
+  194 => 'X-Powered-By: ASP.NET',
+  195 => 'X-AspNet-Version: 2.0.50727',
+  196 => 'Location: /ErrorPage.aspx',
+  197 => 'Cache-Control: private',
+  198 => 'Content-Type: text/html; charset=utf-8',
+  199 => 'Content-Length: 134',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:50 pm
+
+Http request header dump! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 6645
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%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%2FUHJvZHVjdElEPTEwMDAxMB8AZ2RkAgEPZBYGAgEPDxYEHwEFXVZpdnJlYXUgV2F0ZXIgU3lzdGVtIFJlLXVzZWFibGUgZ2xhc3MgYm90dGxlcy4gTm9uLXJldHVybmVkIGJvdHRsZXMgd2lsbCBiZSBjaGFyZ2VkIGF0IMKjMy45NR8AZ2RkAgMPDxYCHwBoZGQCBQ8PFgIfAQUEPGJyPmRkAgMPZBYCZg9kFgYCAQ8PFgQfAQUGwqMxLjI1HwBnZGQCAw8PFgQfAWUfAGdkZAIFDw8WBB8BBRBDb2RlOiAxMDAwMTAgICAgHwBnZGQCFQ8WAh8AZxYGZg9kFgJmD2QWAgIBDw8WBB8BBRxWaXZyZWF1IFdhdGVyIDFsdHIgU3BhcmtsaW5nHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAxMR8AZ2RkAgEPZBYGAgEPDxYEHwEFXlZpdnJlYXUgV2F0ZXIgU3lzdGVtIFJlLXVzZWFibGUgZ2xhc3MgYm90dGxlcy4gIE5vbi1yZXR1cm5lZCBib3R0bGVzIHdpbGwgYmUgY2hhcmdlZCBhdCDCozMuOTUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMS4yNR8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDExICAgIB8AZ2RkAhcPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUXQ3JhbmJlcnJ5IEp1aWNlIDEgbGl0cmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFI01ha2VUaHVtYm5haWwuYXNweD9Qcm9kdWN0SUQ9MTAwMDEyHwBnZGQCAQ9kFgYCAQ8PFgQfAWUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMi41MB8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDEyICAgIB8AZ2RkAhkPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQURU3RpbGwgd2F0ZXIgNTAwbWwfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BBS9UaGVyZSBpcyBhIG1pbmltdW0gb3JkZXIgcXVhbnRpdHkgb2YgMjQgYm90dGxlcx8AZ2RkAgMPDxYCHwBoZGQCBQ8PFgIfAQUEPGJyPmRkAgMPZBYCZg9kFgYCAQ8PFgQfAQUGwqMxLjA1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAyNCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDA1NiAgICAfAGdkZAIbDw8WAh8AaGRkAh0PDxYCHwEFFFJlY29yZHMgMSB0byA2IG9mIDEwZGQCHw8PFgIfAGdkZAIhDw8WAh8AZ2RkAiUPDxYCHwEFNkNpdHkgLSAwMjA3IDA0MDgwNjEsIDA3OTYgODQ4NzUzMy4gQ2FzcyAtIDAyMDcgMDQwNTE4MGRkAicPDxYCHwFlZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgcFHmN0bDAwJE1haW5QbGFjZUhvbGRlciRpbVNlYXJjaAUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDEFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QyBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MwUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDQFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q1BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0NqmNsJUVMWv0KH5GGiRabB8pZLIG&__EVENTVALIDATION=%2FwEWJQL27YCCBwKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFP5Vc1F7CuF8UN0CIjpFQHbnqjGs%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat1_1=Chilled+Beverages',
+  ),
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:50 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 11902',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Wed, 08 Oct 2008 18:33:04 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "030e84c7429c91:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:30 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:31 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:50:31 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:50 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 302 Found',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:51:17 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Location: /ErrorPage.aspx',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 134',
+  10 => 'HTTP/1.1 302 Found',
+  11 => 'Connection: close',
+  12 => 'Date: Sun, 10 Nov 2013 17:51:17 GMT',
+  13 => 'Server: Microsoft-IIS/6.0',
+  14 => 'X-Powered-By: ASP.NET',
+  15 => 'X-AspNet-Version: 2.0.50727',
+  16 => 'Location: /ErrorPage.aspx',
+  17 => 'Cache-Control: private',
+  18 => 'Content-Type: text/html; charset=utf-8',
+  19 => 'Content-Length: 134',
+  20 => 'HTTP/1.1 302 Found',
+  21 => 'Connection: close',
+  22 => 'Date: Sun, 10 Nov 2013 17:51:17 GMT',
+  23 => 'Server: Microsoft-IIS/6.0',
+  24 => 'X-Powered-By: ASP.NET',
+  25 => 'X-AspNet-Version: 2.0.50727',
+  26 => 'Location: /ErrorPage.aspx',
+  27 => 'Cache-Control: private',
+  28 => 'Content-Type: text/html; charset=utf-8',
+  29 => 'Content-Length: 134',
+  30 => 'HTTP/1.1 302 Found',
+  31 => 'Connection: close',
+  32 => 'Date: Sun, 10 Nov 2013 17:51:17 GMT',
+  33 => 'Server: Microsoft-IIS/6.0',
+  34 => 'X-Powered-By: ASP.NET',
+  35 => 'X-AspNet-Version: 2.0.50727',
+  36 => 'Location: /ErrorPage.aspx',
+  37 => 'Cache-Control: private',
+  38 => 'Content-Type: text/html; charset=utf-8',
+  39 => 'Content-Length: 134',
+  40 => 'HTTP/1.1 302 Found',
+  41 => 'Connection: close',
+  42 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  43 => 'Server: Microsoft-IIS/6.0',
+  44 => 'X-Powered-By: ASP.NET',
+  45 => 'X-AspNet-Version: 2.0.50727',
+  46 => 'Location: /ErrorPage.aspx',
+  47 => 'Cache-Control: private',
+  48 => 'Content-Type: text/html; charset=utf-8',
+  49 => 'Content-Length: 134',
+  50 => 'HTTP/1.1 302 Found',
+  51 => 'Connection: close',
+  52 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  53 => 'Server: Microsoft-IIS/6.0',
+  54 => 'X-Powered-By: ASP.NET',
+  55 => 'X-AspNet-Version: 2.0.50727',
+  56 => 'Location: /ErrorPage.aspx',
+  57 => 'Cache-Control: private',
+  58 => 'Content-Type: text/html; charset=utf-8',
+  59 => 'Content-Length: 134',
+  60 => 'HTTP/1.1 302 Found',
+  61 => 'Connection: close',
+  62 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  63 => 'Server: Microsoft-IIS/6.0',
+  64 => 'X-Powered-By: ASP.NET',
+  65 => 'X-AspNet-Version: 2.0.50727',
+  66 => 'Location: /ErrorPage.aspx',
+  67 => 'Cache-Control: private',
+  68 => 'Content-Type: text/html; charset=utf-8',
+  69 => 'Content-Length: 134',
+  70 => 'HTTP/1.1 302 Found',
+  71 => 'Connection: close',
+  72 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  73 => 'Server: Microsoft-IIS/6.0',
+  74 => 'X-Powered-By: ASP.NET',
+  75 => 'X-AspNet-Version: 2.0.50727',
+  76 => 'Location: /ErrorPage.aspx',
+  77 => 'Cache-Control: private',
+  78 => 'Content-Type: text/html; charset=utf-8',
+  79 => 'Content-Length: 134',
+  80 => 'HTTP/1.1 302 Found',
+  81 => 'Connection: close',
+  82 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  83 => 'Server: Microsoft-IIS/6.0',
+  84 => 'X-Powered-By: ASP.NET',
+  85 => 'X-AspNet-Version: 2.0.50727',
+  86 => 'Location: /ErrorPage.aspx',
+  87 => 'Cache-Control: private',
+  88 => 'Content-Type: text/html; charset=utf-8',
+  89 => 'Content-Length: 134',
+  90 => 'HTTP/1.1 302 Found',
+  91 => 'Connection: close',
+  92 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  93 => 'Server: Microsoft-IIS/6.0',
+  94 => 'X-Powered-By: ASP.NET',
+  95 => 'X-AspNet-Version: 2.0.50727',
+  96 => 'Location: /ErrorPage.aspx',
+  97 => 'Cache-Control: private',
+  98 => 'Content-Type: text/html; charset=utf-8',
+  99 => 'Content-Length: 134',
+  100 => 'HTTP/1.1 302 Found',
+  101 => 'Connection: close',
+  102 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  103 => 'Server: Microsoft-IIS/6.0',
+  104 => 'X-Powered-By: ASP.NET',
+  105 => 'X-AspNet-Version: 2.0.50727',
+  106 => 'Location: /ErrorPage.aspx',
+  107 => 'Cache-Control: private',
+  108 => 'Content-Type: text/html; charset=utf-8',
+  109 => 'Content-Length: 134',
+  110 => 'HTTP/1.1 302 Found',
+  111 => 'Connection: close',
+  112 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  113 => 'Server: Microsoft-IIS/6.0',
+  114 => 'X-Powered-By: ASP.NET',
+  115 => 'X-AspNet-Version: 2.0.50727',
+  116 => 'Location: /ErrorPage.aspx',
+  117 => 'Cache-Control: private',
+  118 => 'Content-Type: text/html; charset=utf-8',
+  119 => 'Content-Length: 134',
+  120 => 'HTTP/1.1 302 Found',
+  121 => 'Connection: close',
+  122 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  123 => 'Server: Microsoft-IIS/6.0',
+  124 => 'X-Powered-By: ASP.NET',
+  125 => 'X-AspNet-Version: 2.0.50727',
+  126 => 'Location: /ErrorPage.aspx',
+  127 => 'Cache-Control: private',
+  128 => 'Content-Type: text/html; charset=utf-8',
+  129 => 'Content-Length: 134',
+  130 => 'HTTP/1.1 302 Found',
+  131 => 'Connection: close',
+  132 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  133 => 'Server: Microsoft-IIS/6.0',
+  134 => 'X-Powered-By: ASP.NET',
+  135 => 'X-AspNet-Version: 2.0.50727',
+  136 => 'Location: /ErrorPage.aspx',
+  137 => 'Cache-Control: private',
+  138 => 'Content-Type: text/html; charset=utf-8',
+  139 => 'Content-Length: 134',
+  140 => 'HTTP/1.1 302 Found',
+  141 => 'Connection: close',
+  142 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  143 => 'Server: Microsoft-IIS/6.0',
+  144 => 'X-Powered-By: ASP.NET',
+  145 => 'X-AspNet-Version: 2.0.50727',
+  146 => 'Location: /ErrorPage.aspx',
+  147 => 'Cache-Control: private',
+  148 => 'Content-Type: text/html; charset=utf-8',
+  149 => 'Content-Length: 134',
+  150 => 'HTTP/1.1 302 Found',
+  151 => 'Connection: close',
+  152 => 'Date: Sun, 10 Nov 2013 17:51:18 GMT',
+  153 => 'Server: Microsoft-IIS/6.0',
+  154 => 'X-Powered-By: ASP.NET',
+  155 => 'X-AspNet-Version: 2.0.50727',
+  156 => 'Location: /ErrorPage.aspx',
+  157 => 'Cache-Control: private',
+  158 => 'Content-Type: text/html; charset=utf-8',
+  159 => 'Content-Length: 134',
+  160 => 'HTTP/1.1 302 Found',
+  161 => 'Connection: close',
+  162 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  163 => 'Server: Microsoft-IIS/6.0',
+  164 => 'X-Powered-By: ASP.NET',
+  165 => 'X-AspNet-Version: 2.0.50727',
+  166 => 'Location: /ErrorPage.aspx',
+  167 => 'Cache-Control: private',
+  168 => 'Content-Type: text/html; charset=utf-8',
+  169 => 'Content-Length: 134',
+  170 => 'HTTP/1.1 302 Found',
+  171 => 'Connection: close',
+  172 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  173 => 'Server: Microsoft-IIS/6.0',
+  174 => 'X-Powered-By: ASP.NET',
+  175 => 'X-AspNet-Version: 2.0.50727',
+  176 => 'Location: /ErrorPage.aspx',
+  177 => 'Cache-Control: private',
+  178 => 'Content-Type: text/html; charset=utf-8',
+  179 => 'Content-Length: 134',
+  180 => 'HTTP/1.1 302 Found',
+  181 => 'Connection: close',
+  182 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  183 => 'Server: Microsoft-IIS/6.0',
+  184 => 'X-Powered-By: ASP.NET',
+  185 => 'X-AspNet-Version: 2.0.50727',
+  186 => 'Location: /ErrorPage.aspx',
+  187 => 'Cache-Control: private',
+  188 => 'Content-Type: text/html; charset=utf-8',
+  189 => 'Content-Length: 134',
+  190 => 'HTTP/1.1 302 Found',
+  191 => 'Connection: close',
+  192 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  193 => 'Server: Microsoft-IIS/6.0',
+  194 => 'X-Powered-By: ASP.NET',
+  195 => 'X-AspNet-Version: 2.0.50727',
+  196 => 'Location: /ErrorPage.aspx',
+  197 => 'Cache-Control: private',
+  198 => 'Content-Type: text/html; charset=utf-8',
+  199 => 'Content-Length: 134',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 6645
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%2FwEPDwUKMTY5NDc2MDMyNw9kFgJmD2QWAgIDD2QWBgIDD2QWBgIJDw8WAh4HVmlzaWJsZWhkZAILDw8WAh4EVGV4dAUYZm9yIENpdHkgVW5pdmVyc2l0eSAgICAgZGQCDQ8PFgIfAQURLSBWZXJzaW9uIDIuNi4xLjJkZAIFD2QWAgIBD2QWCgIBD2QWAgIBDw8WAh8BBQlWSUVXIE1FTlVkZAIFDw8WAh8BZWRkAgcPDxYCHwBoZGQCCQ8PFgIfAGhkZAILDw8WAh8AaGRkAgcPZBYiAgUPEA8WBh4NRGF0YVRleHRGaWVsZAUKRW50aXR5TmFtZR4ORGF0YVZhbHVlRmllbGQFCEVudGl0eUlEHgtfIURhdGFCb3VuZGdkEBUCD0NpdHkgVW5pdmVyc2l0eRRDYXNzIEJ1c2luZXNzIFNjaG9vbBUCATEBMhQrAwJnZxYBZmQCBw9kFgYCAw9kFg5mD2QWDmYPFgIfAGcWAgIBDw8WBB8BBQlCZXZlcmFnZXMfAGdkZAIBDxYCHwBnFgICAQ8PFgQfAQUERm9vZB8AZ2RkAgIPFgIfAGcWAgIBDw8WAh8BBQZCdWZmZXRkZAIDDxYCHwBnFgICAQ8PFgQfAQUHRGlubmVycx8AZ2RkAgQPFgIfAGcWAgIBDw8WBB8BBQhQYWNrYWdlcx8AZ2RkAgUPFgIfAGcWAgIBDw8WBB8BBQZEcmlua3MfAGdkZAIGDxYCHwBnFgICAQ8PFgQfAQUFT3RoZXIfAGdkZAIBD2QWDmYPZBYCAgEPDxYKHgRfIVNCAgwfAQURQ2hpbGxlZCBCZXZlcmFnZXMfAGceCUJhY2tDb2xvcgpfHglGb3JlQ29sb3IKI2RkAgEPZBYCAgEPDxYEHwEFCUJyZWFrZmFzdB8AZ2RkAgIPZBYCAgEPDxYEHwEFC0ZvcmsgQnVmZmV0HwBnZGQCAw9kFgICAQ8PFgQfAQUOQ2hyaXN0bWFzIE1lbnUfAGdkZAIED2QWAgIBDw8WBB8BBRBEZWxlZ2F0ZSBQYWNrYWdlHwBnZGQCBQ9kFgICAQ8PFgQfAQUJV2luZSBMaXN0HwBnZGQCBg9kFgICAQ8PFggfBQKACB8BBRVEZWxpdmVyeSBSZXF1aXJlbWVudHMfAGceCUZvbnRfU2l6ZSgqIlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuRm9udFVuaXQIWFgtU21hbGxkZAICD2QWDmYPZBYCAgEPDxYEHwEFDUFmdGVybm9vbiBUZWEfAGdkZAIBD2QWAgIBDw8WBB8BBQ5TYW5kd2ljaCBMdW5jaB8AZ2RkAgIPZBYCAgEPDxYEHwEFDUZpbmdlciBCdWZmZXQfAGdkZAIDD2QWAgIBDw8WBB8BBQhDYW5hcMOpcx8AZ2RkAgQPZBYCAgEPDxYEHwEFDkV2ZW50IFBhY2thZ2VzHwBnZGQCBQ9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WBB8BBQNTRFUfAGdkZAIDD2QWDmYPZBYCAgEPDxYEHwEFDUhvdCBCZXZlcmFnZXMfAGdkZAIBD2QWAgIBDw8WBB8BBQdMdW5jaGVzHwBnZGQCAg9kFgICAQ8PFggfBQKACB8BBSJJbmRpdmlkdWFsIEZpbmdlciBCdWZmZXQgQWRkaXRpb25zHwBnHwgoKwQIWFgtU21hbGxkZAIDD2QWAgIBDw8WBB8BBQdEaW5uZXJzHwBnZGQCBA9kFgICAQ8PFgIfAGhkZAIFD2QWAgIBDw8WAh8AaGRkAgYPZBYCAgEPDxYEHwEFDVNlcnZpY2UgU3RhZmYfAGdkZAIED2QWDmYPZBYCAgEPDxYCHwBoZGQCAQ9kFgICAQ8PFgQfAQUPTHV4dXJ5IERlc3NlcnRzHwBnZGQCAg9kFgICAQ8PFggfBQKACB8BBRJOaWJibGVzIGFuZCBDaGVlc2UfAGcfCCgrBAdYLVNtYWxsZGQCAw9kFgICAQ8PFgQfAQURRXZlbmluZyBSZWNlcHRpb24fAGdkZAIED2QWAgIBDw8WAh8AaGRkAgUPZBYCAgEPDxYCHwBoZGQCBg9kFgICAQ8PFgQfAQUOTm9uLUZvb2QgSXRlbXMfAGdkZAIFD2QWDmYPZBYCAgEPDxYCHwBoZGQCAQ9kFgICAQ8PFgIfAGhkZAICD2QWAgIBDw8WAh8AaGRkAgMPZBYCAgEPDxYCHwBoZGQCBA9kFgICAQ8PFgIfAGhkZAIFD2QWAgIBDw8WAh8AaGRkAgYPZBYCAgEPDxYCHwBoZGQCBg9kFg5mD2QWAgIBDw8WAh8AaGRkAgEPZBYCAgEPDxYCHwBoZGQCAg9kFgICAQ8PFgIfAGhkZAIDD2QWAgIBDw8WAh8AaGRkAgQPZBYCAgEPDxYCHwBoZGQCBQ9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WAh8AaGRkAgUPDxYCHwEFEUNoaWxsZWQgQmV2ZXJhZ2VzZGQCBw8PFgIfAQWAA0FsbCBmcnVpdCBqdWljZSBhbmQgd2F0ZXIgYXJlIHNvbGQgb24gYSDigJhzYWxlIG9yIHJldHVybuKAmSBiYXNpcy4gV2Ugc3VnZ2VzdCB0aGF0IDEgbGl0cmUgdXN1YWxseSBzZXJ2ZXMgNSBnbGFzc2VzLg0KDQpPdXIgdGVhbSB3aWxsIGNvbXBsZXRlIGEgY29uc3VtcHRpb24gcmVwb3J0IGZvciBlYWNoIGV2ZW50LkFueSBib3R0bGVzL2JveGVzIHJldHVybmVkIHVub3BlbmVkIGFuZCB1bmRhbWFnZWQgd2l0aGluIDI0IGhvdXJzIGFmdGVyIHlvdXIgZXZlbnQsIHdpbGwgYmUgZGVkdWN0ZWQgb2ZmIHRoZSBvcmlnaW5hbCBjaGFyZ2UuIFlvdSB3aWxsIHRoZXJlZm9yZSBvbmx5IGJlIGNoYXJnZWQgZm9yIHRoZSBiZXZlcmFnZXMgd2hpY2ggaGF2ZSBiZWVuIGNvbnN1bWVkLmRkAgkPDxYCHwBoZGQCCw8PFgIfAQUUUmVjb3JkcyAxIHRvIDYgb2YgMTBkZAINDw8WAh8AZ2RkAg8PFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUVT3JhbmdlIEp1aWNlOiAxIGxpdHJlHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB4ISW1hZ2VVcmwFI01ha2VUaHVtYm5haWwuYXNweD9Qcm9kdWN0SUQ9MTAwMDA4HwBnZGQCAQ9kFgYCAQ8PFgQfAWUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMS45NR8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDA4ICAgIB8AZ2RkAhEPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUUQXBwbGUgSnVpY2U6IDEgbGl0cmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFI01ha2VUaHVtYm5haWwuYXNweD9Qcm9kdWN0SUQ9MTAwMDA5HwBnZGQCAQ9kFgYCAQ8PFgQfAWUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMS45NR8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDA5ICAgIB8AZ2RkAhMPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUYVml2cmVhdSBXYXRlciAxbHRyIFN0aWxsHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAxMB8AZ2RkAgEPZBYGAgEPDxYEHwEFXVZpdnJlYXUgV2F0ZXIgU3lzdGVtIFJlLXVzZWFibGUgZ2xhc3MgYm90dGxlcy4gTm9uLXJldHVybmVkIGJvdHRsZXMgd2lsbCBiZSBjaGFyZ2VkIGF0IMKjMy45NR8AZ2RkAgMPDxYCHwBoZGQCBQ8PFgIfAQUEPGJyPmRkAgMPZBYCZg9kFgYCAQ8PFgQfAQUGwqMxLjI1HwBnZGQCAw8PFgQfAWUfAGdkZAIFDw8WBB8BBRBDb2RlOiAxMDAwMTAgICAgHwBnZGQCFQ8WAh8AZxYGZg9kFgJmD2QWAgIBDw8WBB8BBRxWaXZyZWF1IFdhdGVyIDFsdHIgU3BhcmtsaW5nHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAxMR8AZ2RkAgEPZBYGAgEPDxYEHwEFXlZpdnJlYXUgV2F0ZXIgU3lzdGVtIFJlLXVzZWFibGUgZ2xhc3MgYm90dGxlcy4gIE5vbi1yZXR1cm5lZCBib3R0bGVzIHdpbGwgYmUgY2hhcmdlZCBhdCDCozMuOTUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMS4yNR8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDExICAgIB8AZ2RkAhcPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUXQ3JhbmJlcnJ5IEp1aWNlIDEgbGl0cmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFI01ha2VUaHVtYm5haWwuYXNweD9Qcm9kdWN0SUQ9MTAwMDEyHwBnZGQCAQ9kFgYCAQ8PFgQfAWUfAGdkZAIDDw8WAh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMi41MB8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDEyICAgIB8AZ2RkAhkPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQURU3RpbGwgd2F0ZXIgNTAwbWwfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BBS9UaGVyZSBpcyBhIG1pbmltdW0gb3JkZXIgcXVhbnRpdHkgb2YgMjQgYm90dGxlcx8AZ2RkAgMPDxYCHwBoZGQCBQ8PFgIfAQUEPGJyPmRkAgMPZBYCZg9kFgYCAQ8PFgQfAQUGwqMxLjA1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAyNCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDA1NiAgICAfAGdkZAIbDw8WAh8AaGRkAh0PDxYCHwEFFFJlY29yZHMgMSB0byA2IG9mIDEwZGQCHw8PFgIfAGdkZAIhDw8WAh8AZ2RkAiUPDxYCHwEFNkNpdHkgLSAwMjA3IDA0MDgwNjEsIDA3OTYgODQ4NzUzMy4gQ2FzcyAtIDAyMDcgMDQwNTE4MGRkAicPDxYCHwFlZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgcFHmN0bDAwJE1haW5QbGFjZUhvbGRlciRpbVNlYXJjaAUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDEFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QyBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MwUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDQFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q1BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0NqmNsJUVMWv0KH5GGiRabB8pZLIG&__EVENTVALIDATION=%2FwEWJQL27YCCBwKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFP5Vc1F7CuF8UN0CIjpFQHbnqjGs%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat1_1=Chilled+Beverages',
+  ),
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:19 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 302 Found',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Location: /ErrorPage.aspx',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 134',
+  10 => 'HTTP/1.1 302 Found',
+  11 => 'Connection: close',
+  12 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  13 => 'Server: Microsoft-IIS/6.0',
+  14 => 'X-Powered-By: ASP.NET',
+  15 => 'X-AspNet-Version: 2.0.50727',
+  16 => 'Location: /ErrorPage.aspx',
+  17 => 'Cache-Control: private',
+  18 => 'Content-Type: text/html; charset=utf-8',
+  19 => 'Content-Length: 134',
+  20 => 'HTTP/1.1 302 Found',
+  21 => 'Connection: close',
+  22 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  23 => 'Server: Microsoft-IIS/6.0',
+  24 => 'X-Powered-By: ASP.NET',
+  25 => 'X-AspNet-Version: 2.0.50727',
+  26 => 'Location: /ErrorPage.aspx',
+  27 => 'Cache-Control: private',
+  28 => 'Content-Type: text/html; charset=utf-8',
+  29 => 'Content-Length: 134',
+  30 => 'HTTP/1.1 302 Found',
+  31 => 'Connection: close',
+  32 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  33 => 'Server: Microsoft-IIS/6.0',
+  34 => 'X-Powered-By: ASP.NET',
+  35 => 'X-AspNet-Version: 2.0.50727',
+  36 => 'Location: /ErrorPage.aspx',
+  37 => 'Cache-Control: private',
+  38 => 'Content-Type: text/html; charset=utf-8',
+  39 => 'Content-Length: 134',
+  40 => 'HTTP/1.1 302 Found',
+  41 => 'Connection: close',
+  42 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  43 => 'Server: Microsoft-IIS/6.0',
+  44 => 'X-Powered-By: ASP.NET',
+  45 => 'X-AspNet-Version: 2.0.50727',
+  46 => 'Location: /ErrorPage.aspx',
+  47 => 'Cache-Control: private',
+  48 => 'Content-Type: text/html; charset=utf-8',
+  49 => 'Content-Length: 134',
+  50 => 'HTTP/1.1 302 Found',
+  51 => 'Connection: close',
+  52 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  53 => 'Server: Microsoft-IIS/6.0',
+  54 => 'X-Powered-By: ASP.NET',
+  55 => 'X-AspNet-Version: 2.0.50727',
+  56 => 'Location: /ErrorPage.aspx',
+  57 => 'Cache-Control: private',
+  58 => 'Content-Type: text/html; charset=utf-8',
+  59 => 'Content-Length: 134',
+  60 => 'HTTP/1.1 302 Found',
+  61 => 'Connection: close',
+  62 => 'Date: Sun, 10 Nov 2013 17:51:27 GMT',
+  63 => 'Server: Microsoft-IIS/6.0',
+  64 => 'X-Powered-By: ASP.NET',
+  65 => 'X-AspNet-Version: 2.0.50727',
+  66 => 'Location: /ErrorPage.aspx',
+  67 => 'Cache-Control: private',
+  68 => 'Content-Type: text/html; charset=utf-8',
+  69 => 'Content-Length: 134',
+  70 => 'HTTP/1.1 302 Found',
+  71 => 'Connection: close',
+  72 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  73 => 'Server: Microsoft-IIS/6.0',
+  74 => 'X-Powered-By: ASP.NET',
+  75 => 'X-AspNet-Version: 2.0.50727',
+  76 => 'Location: /ErrorPage.aspx',
+  77 => 'Cache-Control: private',
+  78 => 'Content-Type: text/html; charset=utf-8',
+  79 => 'Content-Length: 134',
+  80 => 'HTTP/1.1 302 Found',
+  81 => 'Connection: close',
+  82 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  83 => 'Server: Microsoft-IIS/6.0',
+  84 => 'X-Powered-By: ASP.NET',
+  85 => 'X-AspNet-Version: 2.0.50727',
+  86 => 'Location: /ErrorPage.aspx',
+  87 => 'Cache-Control: private',
+  88 => 'Content-Type: text/html; charset=utf-8',
+  89 => 'Content-Length: 134',
+  90 => 'HTTP/1.1 302 Found',
+  91 => 'Connection: close',
+  92 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  93 => 'Server: Microsoft-IIS/6.0',
+  94 => 'X-Powered-By: ASP.NET',
+  95 => 'X-AspNet-Version: 2.0.50727',
+  96 => 'Location: /ErrorPage.aspx',
+  97 => 'Cache-Control: private',
+  98 => 'Content-Type: text/html; charset=utf-8',
+  99 => 'Content-Length: 134',
+  100 => 'HTTP/1.1 302 Found',
+  101 => 'Connection: close',
+  102 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  103 => 'Server: Microsoft-IIS/6.0',
+  104 => 'X-Powered-By: ASP.NET',
+  105 => 'X-AspNet-Version: 2.0.50727',
+  106 => 'Location: /ErrorPage.aspx',
+  107 => 'Cache-Control: private',
+  108 => 'Content-Type: text/html; charset=utf-8',
+  109 => 'Content-Length: 134',
+  110 => 'HTTP/1.1 302 Found',
+  111 => 'Connection: close',
+  112 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  113 => 'Server: Microsoft-IIS/6.0',
+  114 => 'X-Powered-By: ASP.NET',
+  115 => 'X-AspNet-Version: 2.0.50727',
+  116 => 'Location: /ErrorPage.aspx',
+  117 => 'Cache-Control: private',
+  118 => 'Content-Type: text/html; charset=utf-8',
+  119 => 'Content-Length: 134',
+  120 => 'HTTP/1.1 302 Found',
+  121 => 'Connection: close',
+  122 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  123 => 'Server: Microsoft-IIS/6.0',
+  124 => 'X-Powered-By: ASP.NET',
+  125 => 'X-AspNet-Version: 2.0.50727',
+  126 => 'Location: /ErrorPage.aspx',
+  127 => 'Cache-Control: private',
+  128 => 'Content-Type: text/html; charset=utf-8',
+  129 => 'Content-Length: 134',
+  130 => 'HTTP/1.1 302 Found',
+  131 => 'Connection: close',
+  132 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  133 => 'Server: Microsoft-IIS/6.0',
+  134 => 'X-Powered-By: ASP.NET',
+  135 => 'X-AspNet-Version: 2.0.50727',
+  136 => 'Location: /ErrorPage.aspx',
+  137 => 'Cache-Control: private',
+  138 => 'Content-Type: text/html; charset=utf-8',
+  139 => 'Content-Length: 134',
+  140 => 'HTTP/1.1 302 Found',
+  141 => 'Connection: close',
+  142 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  143 => 'Server: Microsoft-IIS/6.0',
+  144 => 'X-Powered-By: ASP.NET',
+  145 => 'X-AspNet-Version: 2.0.50727',
+  146 => 'Location: /ErrorPage.aspx',
+  147 => 'Cache-Control: private',
+  148 => 'Content-Type: text/html; charset=utf-8',
+  149 => 'Content-Length: 134',
+  150 => 'HTTP/1.1 302 Found',
+  151 => 'Connection: close',
+  152 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  153 => 'Server: Microsoft-IIS/6.0',
+  154 => 'X-Powered-By: ASP.NET',
+  155 => 'X-AspNet-Version: 2.0.50727',
+  156 => 'Location: /ErrorPage.aspx',
+  157 => 'Cache-Control: private',
+  158 => 'Content-Type: text/html; charset=utf-8',
+  159 => 'Content-Length: 134',
+  160 => 'HTTP/1.1 302 Found',
+  161 => 'Connection: close',
+  162 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  163 => 'Server: Microsoft-IIS/6.0',
+  164 => 'X-Powered-By: ASP.NET',
+  165 => 'X-AspNet-Version: 2.0.50727',
+  166 => 'Location: /ErrorPage.aspx',
+  167 => 'Cache-Control: private',
+  168 => 'Content-Type: text/html; charset=utf-8',
+  169 => 'Content-Length: 134',
+  170 => 'HTTP/1.1 302 Found',
+  171 => 'Connection: close',
+  172 => 'Date: Sun, 10 Nov 2013 17:51:28 GMT',
+  173 => 'Server: Microsoft-IIS/6.0',
+  174 => 'X-Powered-By: ASP.NET',
+  175 => 'X-AspNet-Version: 2.0.50727',
+  176 => 'Location: /ErrorPage.aspx',
+  177 => 'Cache-Control: private',
+  178 => 'Content-Type: text/html; charset=utf-8',
+  179 => 'Content-Length: 134',
+  180 => 'HTTP/1.1 302 Found',
+  181 => 'Connection: close',
+  182 => 'Date: Sun, 10 Nov 2013 17:51:29 GMT',
+  183 => 'Server: Microsoft-IIS/6.0',
+  184 => 'X-Powered-By: ASP.NET',
+  185 => 'X-AspNet-Version: 2.0.50727',
+  186 => 'Location: /ErrorPage.aspx',
+  187 => 'Cache-Control: private',
+  188 => 'Content-Type: text/html; charset=utf-8',
+  189 => 'Content-Length: 134',
+  190 => 'HTTP/1.1 302 Found',
+  191 => 'Connection: close',
+  192 => 'Date: Sun, 10 Nov 2013 17:51:29 GMT',
+  193 => 'Server: Microsoft-IIS/6.0',
+  194 => 'X-Powered-By: ASP.NET',
+  195 => 'X-AspNet-Version: 2.0.50727',
+  196 => 'Location: /ErrorPage.aspx',
+  197 => 'Cache-Control: private',
+  198 => 'Content-Type: text/html; charset=utf-8',
+  199 => 'Content-Length: 134',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 6981
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%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%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQbCozEuOTUfAGdkZAIDDw8WBB8BZR8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDAwOCAgICAfAGdkZAIRDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFFEFwcGxlIEp1aWNlOiAxIGxpdHJlHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAwOR8AZ2RkAgEPZBYGAgEPDxYEHwFlHwBnZGQCAw8PFgQfAQUKTGlua0J1dHRvbh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMS45NR8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDA5ICAgIB8AZ2RkAhMPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUYVml2cmVhdSBXYXRlciAxbHRyIFN0aWxsHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAxMB8AZ2RkAgEPZBYGAgEPDxYEHwEFXVZpdnJlYXUgV2F0ZXIgU3lzdGVtIFJlLXVzZWFibGUgZ2xhc3MgYm90dGxlcy4gTm9uLXJldHVybmVkIGJvdHRsZXMgd2lsbCBiZSBjaGFyZ2VkIGF0IMKjMy45NR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQbCozEuMjUfAGdkZAIDDw8WBB8BZR8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDAxMCAgICAfAGdkZAIVDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFHFZpdnJlYXUgV2F0ZXIgMWx0ciBTcGFya2xpbmcfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFI01ha2VUaHVtYm5haWwuYXNweD9Qcm9kdWN0SUQ9MTAwMDExHwBnZGQCAQ9kFgYCAQ8PFgQfAQVeVml2cmVhdSBXYXRlciBTeXN0ZW0gUmUtdXNlYWJsZSBnbGFzcyBib3R0bGVzLiAgTm9uLXJldHVybmVkIGJvdHRsZXMgd2lsbCBiZSBjaGFyZ2VkIGF0IMKjMy45NR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQbCozEuMjUfAGdkZAIDDw8WBB8BZR8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDAxMSAgICAfAGdkZAIXDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFF0NyYW5iZXJyeSBKdWljZSAxIGxpdHJlHwBnZGQCAg9kFgRmD2QWAgIBDw8WBB8JBSNNYWtlVGh1bWJuYWlsLmFzcHg%2FUHJvZHVjdElEPTEwMDAxMh8AZ2RkAgEPZBYGAgEPDxYEHwFlHwBnZGQCAw8PFgQfAQUKTGlua0J1dHRvbh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFBsKjMi41MB8AZ2RkAgMPDxYEHwFlHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDEyICAgIB8AZ2RkAhkPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQURU3RpbGwgd2F0ZXIgNTAwbWwfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BBS9UaGVyZSBpcyBhIG1pbmltdW0gb3JkZXIgcXVhbnRpdHkgb2YgMjQgYm90dGxlcx8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQbCozEuMDUfAGdkZAIDDw8WBB8BBTpQbGVhc2UgTm90ZTogVGhlcmUgaXMgYSBtaW5pbXVtIG9yZGVyIHF1YW50aXR5IG9mIDI0IGl0ZW1zHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMDU2ICAgIB8AZ2RkAhsPDxYEHwEFESZsdDsmbHQ7IFByZXZpb3VzHwBoZGQCHQ8PFgIfAQUUUmVjb3JkcyAxIHRvIDYgb2YgMTBkZAIfDw8WBB8BBQ1OZXh0ICZndDsmZ3Q7HwBnZGQCIQ8PFgQfAQUZQWxsIHByaWNlcyBzdWJqZWN0IHRvIFZBVB8AZ2RkAiUPDxYCHwEFNkNpdHkgLSAwMjA3IDA0MDgwNjEsIDA3OTYgODQ4NzUzMy4gQ2FzcyAtIDAyMDcgMDQwNTE4MGRkAicPDxYCHwFlZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgcFHmN0bDAwJE1haW5QbGFjZUhvbGRlciRpbVNlYXJjaAUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDEFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QyBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MwUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDQFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q1BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0Nl5J75UzfFPd%2BhYWHd%2B4ezbp0kBZ&__EVENTVALIDATION=%2FwEWJQLbosL3DwKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFK1R5BQlkpnKxhUHN22dKeD4uq54%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat3_1=Fork+Buffet',
+  ),
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:29 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:29 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:29 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 302 Found',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:51:34 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Location: /ErrorPage.aspx',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 134',
+  10 => 'HTTP/1.1 302 Found',
+  11 => 'Connection: close',
+  12 => 'Date: Sun, 10 Nov 2013 17:51:34 GMT',
+  13 => 'Server: Microsoft-IIS/6.0',
+  14 => 'X-Powered-By: ASP.NET',
+  15 => 'X-AspNet-Version: 2.0.50727',
+  16 => 'Location: /ErrorPage.aspx',
+  17 => 'Cache-Control: private',
+  18 => 'Content-Type: text/html; charset=utf-8',
+  19 => 'Content-Length: 134',
+  20 => 'HTTP/1.1 302 Found',
+  21 => 'Connection: close',
+  22 => 'Date: Sun, 10 Nov 2013 17:51:34 GMT',
+  23 => 'Server: Microsoft-IIS/6.0',
+  24 => 'X-Powered-By: ASP.NET',
+  25 => 'X-AspNet-Version: 2.0.50727',
+  26 => 'Location: /ErrorPage.aspx',
+  27 => 'Cache-Control: private',
+  28 => 'Content-Type: text/html; charset=utf-8',
+  29 => 'Content-Length: 134',
+  30 => 'HTTP/1.1 302 Found',
+  31 => 'Connection: close',
+  32 => 'Date: Sun, 10 Nov 2013 17:51:34 GMT',
+  33 => 'Server: Microsoft-IIS/6.0',
+  34 => 'X-Powered-By: ASP.NET',
+  35 => 'X-AspNet-Version: 2.0.50727',
+  36 => 'Location: /ErrorPage.aspx',
+  37 => 'Cache-Control: private',
+  38 => 'Content-Type: text/html; charset=utf-8',
+  39 => 'Content-Length: 134',
+  40 => 'HTTP/1.1 302 Found',
+  41 => 'Connection: close',
+  42 => 'Date: Sun, 10 Nov 2013 17:51:34 GMT',
+  43 => 'Server: Microsoft-IIS/6.0',
+  44 => 'X-Powered-By: ASP.NET',
+  45 => 'X-AspNet-Version: 2.0.50727',
+  46 => 'Location: /ErrorPage.aspx',
+  47 => 'Cache-Control: private',
+  48 => 'Content-Type: text/html; charset=utf-8',
+  49 => 'Content-Length: 134',
+  50 => 'HTTP/1.1 302 Found',
+  51 => 'Connection: close',
+  52 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  53 => 'Server: Microsoft-IIS/6.0',
+  54 => 'X-Powered-By: ASP.NET',
+  55 => 'X-AspNet-Version: 2.0.50727',
+  56 => 'Location: /ErrorPage.aspx',
+  57 => 'Cache-Control: private',
+  58 => 'Content-Type: text/html; charset=utf-8',
+  59 => 'Content-Length: 134',
+  60 => 'HTTP/1.1 302 Found',
+  61 => 'Connection: close',
+  62 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  63 => 'Server: Microsoft-IIS/6.0',
+  64 => 'X-Powered-By: ASP.NET',
+  65 => 'X-AspNet-Version: 2.0.50727',
+  66 => 'Location: /ErrorPage.aspx',
+  67 => 'Cache-Control: private',
+  68 => 'Content-Type: text/html; charset=utf-8',
+  69 => 'Content-Length: 134',
+  70 => 'HTTP/1.1 302 Found',
+  71 => 'Connection: close',
+  72 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  73 => 'Server: Microsoft-IIS/6.0',
+  74 => 'X-Powered-By: ASP.NET',
+  75 => 'X-AspNet-Version: 2.0.50727',
+  76 => 'Location: /ErrorPage.aspx',
+  77 => 'Cache-Control: private',
+  78 => 'Content-Type: text/html; charset=utf-8',
+  79 => 'Content-Length: 134',
+  80 => 'HTTP/1.1 302 Found',
+  81 => 'Connection: close',
+  82 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  83 => 'Server: Microsoft-IIS/6.0',
+  84 => 'X-Powered-By: ASP.NET',
+  85 => 'X-AspNet-Version: 2.0.50727',
+  86 => 'Location: /ErrorPage.aspx',
+  87 => 'Cache-Control: private',
+  88 => 'Content-Type: text/html; charset=utf-8',
+  89 => 'Content-Length: 134',
+  90 => 'HTTP/1.1 302 Found',
+  91 => 'Connection: close',
+  92 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  93 => 'Server: Microsoft-IIS/6.0',
+  94 => 'X-Powered-By: ASP.NET',
+  95 => 'X-AspNet-Version: 2.0.50727',
+  96 => 'Location: /ErrorPage.aspx',
+  97 => 'Cache-Control: private',
+  98 => 'Content-Type: text/html; charset=utf-8',
+  99 => 'Content-Length: 134',
+  100 => 'HTTP/1.1 302 Found',
+  101 => 'Connection: close',
+  102 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  103 => 'Server: Microsoft-IIS/6.0',
+  104 => 'X-Powered-By: ASP.NET',
+  105 => 'X-AspNet-Version: 2.0.50727',
+  106 => 'Location: /ErrorPage.aspx',
+  107 => 'Cache-Control: private',
+  108 => 'Content-Type: text/html; charset=utf-8',
+  109 => 'Content-Length: 134',
+  110 => 'HTTP/1.1 302 Found',
+  111 => 'Connection: close',
+  112 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  113 => 'Server: Microsoft-IIS/6.0',
+  114 => 'X-Powered-By: ASP.NET',
+  115 => 'X-AspNet-Version: 2.0.50727',
+  116 => 'Location: /ErrorPage.aspx',
+  117 => 'Cache-Control: private',
+  118 => 'Content-Type: text/html; charset=utf-8',
+  119 => 'Content-Length: 134',
+  120 => 'HTTP/1.1 302 Found',
+  121 => 'Connection: close',
+  122 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  123 => 'Server: Microsoft-IIS/6.0',
+  124 => 'X-Powered-By: ASP.NET',
+  125 => 'X-AspNet-Version: 2.0.50727',
+  126 => 'Location: /ErrorPage.aspx',
+  127 => 'Cache-Control: private',
+  128 => 'Content-Type: text/html; charset=utf-8',
+  129 => 'Content-Length: 134',
+  130 => 'HTTP/1.1 302 Found',
+  131 => 'Connection: close',
+  132 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  133 => 'Server: Microsoft-IIS/6.0',
+  134 => 'X-Powered-By: ASP.NET',
+  135 => 'X-AspNet-Version: 2.0.50727',
+  136 => 'Location: /ErrorPage.aspx',
+  137 => 'Cache-Control: private',
+  138 => 'Content-Type: text/html; charset=utf-8',
+  139 => 'Content-Length: 134',
+  140 => 'HTTP/1.1 302 Found',
+  141 => 'Connection: close',
+  142 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  143 => 'Server: Microsoft-IIS/6.0',
+  144 => 'X-Powered-By: ASP.NET',
+  145 => 'X-AspNet-Version: 2.0.50727',
+  146 => 'Location: /ErrorPage.aspx',
+  147 => 'Cache-Control: private',
+  148 => 'Content-Type: text/html; charset=utf-8',
+  149 => 'Content-Length: 134',
+  150 => 'HTTP/1.1 302 Found',
+  151 => 'Connection: close',
+  152 => 'Date: Sun, 10 Nov 2013 17:51:35 GMT',
+  153 => 'Server: Microsoft-IIS/6.0',
+  154 => 'X-Powered-By: ASP.NET',
+  155 => 'X-AspNet-Version: 2.0.50727',
+  156 => 'Location: /ErrorPage.aspx',
+  157 => 'Cache-Control: private',
+  158 => 'Content-Type: text/html; charset=utf-8',
+  159 => 'Content-Length: 134',
+  160 => 'HTTP/1.1 302 Found',
+  161 => 'Connection: close',
+  162 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  163 => 'Server: Microsoft-IIS/6.0',
+  164 => 'X-Powered-By: ASP.NET',
+  165 => 'X-AspNet-Version: 2.0.50727',
+  166 => 'Location: /ErrorPage.aspx',
+  167 => 'Cache-Control: private',
+  168 => 'Content-Type: text/html; charset=utf-8',
+  169 => 'Content-Length: 134',
+  170 => 'HTTP/1.1 302 Found',
+  171 => 'Connection: close',
+  172 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  173 => 'Server: Microsoft-IIS/6.0',
+  174 => 'X-Powered-By: ASP.NET',
+  175 => 'X-AspNet-Version: 2.0.50727',
+  176 => 'Location: /ErrorPage.aspx',
+  177 => 'Cache-Control: private',
+  178 => 'Content-Type: text/html; charset=utf-8',
+  179 => 'Content-Length: 134',
+  180 => 'HTTP/1.1 302 Found',
+  181 => 'Connection: close',
+  182 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  183 => 'Server: Microsoft-IIS/6.0',
+  184 => 'X-Powered-By: ASP.NET',
+  185 => 'X-AspNet-Version: 2.0.50727',
+  186 => 'Location: /ErrorPage.aspx',
+  187 => 'Cache-Control: private',
+  188 => 'Content-Type: text/html; charset=utf-8',
+  189 => 'Content-Length: 134',
+  190 => 'HTTP/1.1 302 Found',
+  191 => 'Connection: close',
+  192 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  193 => 'Server: Microsoft-IIS/6.0',
+  194 => 'X-Powered-By: ASP.NET',
+  195 => 'X-AspNet-Version: 2.0.50727',
+  196 => 'Location: /ErrorPage.aspx',
+  197 => 'Cache-Control: private',
+  198 => 'Content-Type: text/html; charset=utf-8',
+  199 => 'Content-Length: 134',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:51 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 7641
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%2FwEPDwUKMTY5NDc2MDMyNw9kFgJmD2QWAgIDD2QWBgIDD2QWBgIJDw8WAh4HVmlzaWJsZWhkZAILDw8WAh4EVGV4dAUYZm9yIENpdHkgVW5pdmVyc2l0eSAgICAgZGQCDQ8PFgIfAQURLSBWZXJzaW9uIDIuNi4xLjJkZAIFD2QWAgIBD2QWCgIBD2QWAgIBDw8WAh8BBQlWSUVXIE1FTlVkZAIFDw8WAh8BZWRkAgcPDxYEHwEFE0Zyb250IG9mIEhvdXNlIE1lbnUfAGhkZAIJDw8WBB8BBRNSZXR1cm4gdG8gTWFpbiBNZW51HwBoZGQCCw8PFgQfAQUHTG9nIE91dB8AaGRkAgcPZBYiAgUPEA8WBh4NRGF0YVRleHRGaWVsZAUKRW50aXR5TmFtZR4ORGF0YVZhbHVlRmllbGQFCEVudGl0eUlEHgtfIURhdGFCb3VuZGdkEBUCD0NpdHkgVW5pdmVyc2l0eRRDYXNzIEJ1c2luZXNzIFNjaG9vbBUCATEBMhQrAwJnZxYBZmQCBw9kFgYCAw9kFg5mD2QWDmYPFgIfAGcWAgIBDw8WBB8BBQlCZXZlcmFnZXMfAGdkZAIBDxYCHwBnFgICAQ8PFgQfAQUERm9vZB8AZ2RkAgIPFgIfAGcWAgIBDw8WAh8BBQZCdWZmZXRkZAIDDxYCHwBnFgICAQ8PFgQfAQUHRGlubmVycx8AZ2RkAgQPFgIfAGcWAgIBDw8WBB8BBQhQYWNrYWdlcx8AZ2RkAgUPFgIfAGcWAgIBDw8WBB8BBQZEcmlua3MfAGdkZAIGDxYCHwBnFgICAQ8PFgQfAQUFT3RoZXIfAGdkZAIBD2QWDmYPZBYCAgEPDxYKHgRfIVNCAgwfAQURQ2hpbGxlZCBCZXZlcmFnZXMfAGceCUJhY2tDb2xvcgpfHglGb3JlQ29sb3IKI2RkAgEPZBYCAgEPDxYEHwEFCUJyZWFrZmFzdB8AZ2RkAgIPZBYCAgEPDxYKHwUCDB8BBQtGb3JrIEJ1ZmZldB8AZx8GCiMfBwqkAWRkAgMPZBYCAgEPDxYEHwEFDkNocmlzdG1hcyBNZW51HwBnZGQCBA9kFgICAQ8PFgQfAQUQRGVsZWdhdGUgUGFja2FnZR8AZ2RkAgUPZBYCAgEPDxYEHwEFCVdpbmUgTGlzdB8AZ2RkAgYPZBYCAgEPDxYIHwUCgAgfAQUVRGVsaXZlcnkgUmVxdWlyZW1lbnRzHwBnHglGb250X1NpemUoKiJTeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLkZvbnRVbml0CFhYLVNtYWxsZGQCAg9kFg5mD2QWAgIBDw8WBB8BBQ1BZnRlcm5vb24gVGVhHwBnZGQCAQ9kFgICAQ8PFgQfAQUOU2FuZHdpY2ggTHVuY2gfAGdkZAICD2QWAgIBDw8WBB8BBQ1GaW5nZXIgQnVmZmV0HwBnZGQCAw9kFgICAQ8PFgQfAQUIQ2FuYXDDqXMfAGdkZAIED2QWAgIBDw8WBB8BBQ5FdmVudCBQYWNrYWdlcx8AZ2RkAgUPZBYCAgEPDxYCHwBoZGQCBg9kFgICAQ8PFgQfAQUDU0RVHwBnZGQCAw9kFg5mD2QWAgIBDw8WBB8BBQ1Ib3QgQmV2ZXJhZ2VzHwBnZGQCAQ9kFgICAQ8PFgQfAQUHTHVuY2hlcx8AZ2RkAgIPZBYCAgEPDxYIHwUCgAgfAQUiSW5kaXZpZHVhbCBGaW5nZXIgQnVmZmV0IEFkZGl0aW9ucx8AZx8IKCsECFhYLVNtYWxsZGQCAw9kFgICAQ8PFgQfAQUHRGlubmVycx8AZ2RkAgQPZBYCAgEPDxYCHwBoZGQCBQ9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WBB8BBQ1TZXJ2aWNlIFN0YWZmHwBnZGQCBA9kFg5mD2QWAgIBDw8WAh8AaGRkAgEPZBYCAgEPDxYEHwEFD0x1eHVyeSBEZXNzZXJ0cx8AZ2RkAgIPZBYCAgEPDxYIHwUCgAgfAQUSTmliYmxlcyBhbmQgQ2hlZXNlHwBnHwgoKwQHWC1TbWFsbGRkAgMPZBYCAgEPDxYEHwEFEUV2ZW5pbmcgUmVjZXB0aW9uHwBnZGQCBA9kFgICAQ8PFgIfAGhkZAIFD2QWAgIBDw8WAh8AaGRkAgYPZBYCAgEPDxYEHwEFDk5vbi1Gb29kIEl0ZW1zHwBnZGQCBQ9kFg5mD2QWAgIBDw8WAh8AaGRkAgEPZBYCAgEPDxYCHwBoZGQCAg9kFgICAQ8PFgIfAGhkZAIDD2QWAgIBDw8WAh8AaGRkAgQPZBYCAgEPDxYCHwBoZGQCBQ9kFgICAQ8PFgIfAGhkZAIGD2QWAgIBDw8WAh8AaGRkAgYPZBYOZg9kFgICAQ8PFgIfAGhkZAIBD2QWAgIBDw8WAh8AaGRkAgIPZBYCAgEPDxYCHwBoZGQCAw9kFgICAQ8PFgIfAGhkZAIED2QWAgIBDw8WAh8AaGRkAgUPZBYCAgEPDxYCHwBoZGQCBg9kFgICAQ8PFgIfAGhkZAIFDw8WAh8BBQtGb3JrIEJ1ZmZldGRkAgcPDxYCHwEF1QNQbGVhc2Ugbm90ZSB0aGVyZSBpcyBhIG1pbmltdW0gY29tYmluZWQgb3JkZXIgZm9yIDEwIHBlb3BsZS4gMTAtMjUgcGVyc29ucyBwbGVhc2UgbWFrZSB0d28gY2hvaWNlczsgb3ZlciAyNSBwbGVhc2UgbWFrZSB0cmVlIGNob2ljZXMNCg0KQWxsIGNvbGQgYnVmZmV0cyBhcmUgYWNjb21wYW5pZWQgYnkgd2FybSBuZXcgcG90YXRvZXMsIHNlbGVjdGlvbnMgb2YgYnJlYWQgcm9sbHMsIGJ1dHRlciAmIG9uZSBvZiB0aGUgZm9sbG93aW5nIHNhbGFkczoNCi0gVG9tYXRvICYgQ3VjdW1iZXIgDQotIFBlc3RvIFJvc3NvIHBhc3RhDQotIENvdXMgQ291cw0KDQpBbGwgaG90IGJ1ZmZldHMgYXJlIGFjY29tcGFuaWVkIGJ5IGZyZXNobHkgYmFrZWQgYnJlYWRzLCBidXR0ZXIgYW5kIGNoZWZzIGNob2ljZSBvZiBhY2NvbXBhbmltZW50cw0KDQpQbGVhc2Ugbm90ZTogMiBkYXlzIG5vdGljZSByZXF1aXJlZCBmb3IgdGhlc2UgaXRlbXMuZGQCCQ8PFgQfAQURJmx0OyZsdDsgUHJldmlvdXMfAGhkZAILDw8WAh8BBRRSZWNvcmRzIDEgdG8gNiBvZiAyNmRkAg0PDxYEHwEFDU5leHQgJmd0OyZndDsfAGdkZAIPDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFVUNvbGQgRm9yayBCdWZmZXQ6IFBpcmkgUGlyaSBDaGlja2VuIHN1cHJlbWUgc2VydmVkIHdpdGggYSBzb3VyIGNyZWFtICYgY2hpdmUgZHJlc3NpbmcfAGdkZAICD2QWBGYPZBYCAgEPDxYEHghJbWFnZVVybAUQRWF0TGVhcm5MaXZlLmpwZx8AZ2RkAgEPZBYGAgEPDxYEHwEFlgFhY2NvbXBhbmllZCBieSB3YXJtIG5ldyBwb3RhdG9lcyBzZWxlY3Rpb24gb2YgYnJlYWQgcm9sbHMgYnV0dGVyIGFuZCAgb25lIG9mIHRoZSBmb2xsb3dpbmcgc2FsYWRzOiB0b21hdG8gJiBjdWN1bWJlciBQZXN0byBSb3NzbyBwYXN0YSBDb3VzIGNvdXMgc2FsYWQfAGdkZAIDDw8WBB8BBQpMaW5rQnV0dG9uHwBoZGQCBQ8PFgIfAQUEPGJyPmRkAgMPZBYCZg9kFgYCAQ8PFgQfAQUHwqMxMS4yNR8AZ2RkAgMPDxYEHwEFOlBsZWFzZSBOb3RlOiBUaGVyZSBpcyBhIG1pbmltdW0gb3JkZXIgcXVhbnRpdHkgb2YgMTAgaXRlbXMfAGdkZAIFDw8WBB8BBRBDb2RlOiAxMDAwNDggICAgHwBnZGQCEQ8WAh8AZxYGZg9kFgJmD2QWAgIBDw8WBB8BBU5Db2xkIEZvcmsgQnVmZmV0OiBDdXJlZCBNaXhlZCBNZWF0IHBsYXR0ZXIgc2VydmVkIHdpdGggYSBzZWxlY3Rpb24gb2YgY2h1dG5leXMfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDA0OSAgICAfAGdkZAITDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFWkNvbGQgRm9yayBCdWZmZXQ6IENvcm9uYXRpb24gQ2hpY2tlbiAobGlnaHRseSBjdXJyaWVkIG1heW9ubmFpc2Ugd2l0aCBmcnVpdCAmIGZyZXNoIGhlcmJzKR8AZ2RkAgIPZBYEZg9kFgICAQ8PFgQfCQUQRWF0TGVhcm5MaXZlLmpwZx8AZ2RkAgEPZBYGAgEPDxYEHwFlHwBnZGQCAw8PFgQfAQUKTGlua0J1dHRvbh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFB8KjMTEuMjUfAGdkZAIDDw8WBB8BBTpQbGVhc2UgTm90ZTogVGhlcmUgaXMgYSBtaW5pbXVtIG9yZGVyIHF1YW50aXR5IG9mIDEwIGl0ZW1zHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMTAzICAgIB8AZ2RkAhUPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUsQ29sZCBGb3JrIEJ1ZmZldDogSW5kaXZpZHVhbCBRdWljaGUgTG9ycmFpbmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNCAgICAfAGdkZAIXDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFNENvbGQgRm9yayBCdWZmZXQ6IEluZGl2aWR1YWwgTGVlayAmIEdydXllcmUgRnJpdGF0dGEfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNSAgICAfAGdkZAIZDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFPUNvbGQgRm9yayBCdWZmZXQ6IEdyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2V0YWJsZSBNZWRsZXkfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNiAgICAfAGdkZAIbDw8WBB8BBREmbHQ7Jmx0OyBQcmV2aW91cx8AaGRkAh0PDxYCHwEFFFJlY29yZHMgMSB0byA2IG9mIDI2ZGQCHw8PFgQfAQUNTmV4dCAmZ3Q7Jmd0Ox8AZ2RkAiEPDxYEHwEFGUFsbCBwcmljZXMgc3ViamVjdCB0byBWQVQfAGdkZAIlDw8WAh8BBTZDaXR5IC0gMDIwNyAwNDA4MDYxLCAwNzk2IDg0ODc1MzMuIENhc3MgLSAwMjA3IDA0MDUxODBkZAInDw8WAh8BZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYHBR5jdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1TZWFyY2gFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QxBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MgUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDMFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q0BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0NQUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDb38cX4ajg%2Bv%2BFDK0kkxiEyosEyJA%3D%3D&__EVENTVALIDATION=%2FwEWJQKs9qzaCgKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFzQZM2FueX9mJYidVHRlkH0ee2NY%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat1_1=Chilled+Beverages',
+  ),
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 2631',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Thu, 25 Aug 2011 12:24:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "0048f12163cc1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1907',
+  2 => 'Content-Type: image/png',
+  3 => 'Last-Modified: Sat, 23 Jan 2010 18:35:34 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "05f4ad95a9cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:51 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 11902',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Wed, 08 Oct 2008 18:33:04 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "030e84c7429c91:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:36 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:51:38 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:51 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:52 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 302 Found',
+  1 => 'Connection: close',
+  2 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  3 => 'Server: Microsoft-IIS/6.0',
+  4 => 'X-Powered-By: ASP.NET',
+  5 => 'X-AspNet-Version: 2.0.50727',
+  6 => 'Location: /ErrorPage.aspx',
+  7 => 'Cache-Control: private',
+  8 => 'Content-Type: text/html; charset=utf-8',
+  9 => 'Content-Length: 134',
+  10 => 'HTTP/1.1 302 Found',
+  11 => 'Connection: close',
+  12 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  13 => 'Server: Microsoft-IIS/6.0',
+  14 => 'X-Powered-By: ASP.NET',
+  15 => 'X-AspNet-Version: 2.0.50727',
+  16 => 'Location: /ErrorPage.aspx',
+  17 => 'Cache-Control: private',
+  18 => 'Content-Type: text/html; charset=utf-8',
+  19 => 'Content-Length: 134',
+  20 => 'HTTP/1.1 302 Found',
+  21 => 'Connection: close',
+  22 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  23 => 'Server: Microsoft-IIS/6.0',
+  24 => 'X-Powered-By: ASP.NET',
+  25 => 'X-AspNet-Version: 2.0.50727',
+  26 => 'Location: /ErrorPage.aspx',
+  27 => 'Cache-Control: private',
+  28 => 'Content-Type: text/html; charset=utf-8',
+  29 => 'Content-Length: 134',
+  30 => 'HTTP/1.1 302 Found',
+  31 => 'Connection: close',
+  32 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  33 => 'Server: Microsoft-IIS/6.0',
+  34 => 'X-Powered-By: ASP.NET',
+  35 => 'X-AspNet-Version: 2.0.50727',
+  36 => 'Location: /ErrorPage.aspx',
+  37 => 'Cache-Control: private',
+  38 => 'Content-Type: text/html; charset=utf-8',
+  39 => 'Content-Length: 134',
+  40 => 'HTTP/1.1 302 Found',
+  41 => 'Connection: close',
+  42 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  43 => 'Server: Microsoft-IIS/6.0',
+  44 => 'X-Powered-By: ASP.NET',
+  45 => 'X-AspNet-Version: 2.0.50727',
+  46 => 'Location: /ErrorPage.aspx',
+  47 => 'Cache-Control: private',
+  48 => 'Content-Type: text/html; charset=utf-8',
+  49 => 'Content-Length: 134',
+  50 => 'HTTP/1.1 302 Found',
+  51 => 'Connection: close',
+  52 => 'Date: Sun, 10 Nov 2013 17:52:15 GMT',
+  53 => 'Server: Microsoft-IIS/6.0',
+  54 => 'X-Powered-By: ASP.NET',
+  55 => 'X-AspNet-Version: 2.0.50727',
+  56 => 'Location: /ErrorPage.aspx',
+  57 => 'Cache-Control: private',
+  58 => 'Content-Type: text/html; charset=utf-8',
+  59 => 'Content-Length: 134',
+  60 => 'HTTP/1.1 302 Found',
+  61 => 'Connection: close',
+  62 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  63 => 'Server: Microsoft-IIS/6.0',
+  64 => 'X-Powered-By: ASP.NET',
+  65 => 'X-AspNet-Version: 2.0.50727',
+  66 => 'Location: /ErrorPage.aspx',
+  67 => 'Cache-Control: private',
+  68 => 'Content-Type: text/html; charset=utf-8',
+  69 => 'Content-Length: 134',
+  70 => 'HTTP/1.1 302 Found',
+  71 => 'Connection: close',
+  72 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  73 => 'Server: Microsoft-IIS/6.0',
+  74 => 'X-Powered-By: ASP.NET',
+  75 => 'X-AspNet-Version: 2.0.50727',
+  76 => 'Location: /ErrorPage.aspx',
+  77 => 'Cache-Control: private',
+  78 => 'Content-Type: text/html; charset=utf-8',
+  79 => 'Content-Length: 134',
+  80 => 'HTTP/1.1 302 Found',
+  81 => 'Connection: close',
+  82 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  83 => 'Server: Microsoft-IIS/6.0',
+  84 => 'X-Powered-By: ASP.NET',
+  85 => 'X-AspNet-Version: 2.0.50727',
+  86 => 'Location: /ErrorPage.aspx',
+  87 => 'Cache-Control: private',
+  88 => 'Content-Type: text/html; charset=utf-8',
+  89 => 'Content-Length: 134',
+  90 => 'HTTP/1.1 302 Found',
+  91 => 'Connection: close',
+  92 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  93 => 'Server: Microsoft-IIS/6.0',
+  94 => 'X-Powered-By: ASP.NET',
+  95 => 'X-AspNet-Version: 2.0.50727',
+  96 => 'Location: /ErrorPage.aspx',
+  97 => 'Cache-Control: private',
+  98 => 'Content-Type: text/html; charset=utf-8',
+  99 => 'Content-Length: 134',
+  100 => 'HTTP/1.1 302 Found',
+  101 => 'Connection: close',
+  102 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  103 => 'Server: Microsoft-IIS/6.0',
+  104 => 'X-Powered-By: ASP.NET',
+  105 => 'X-AspNet-Version: 2.0.50727',
+  106 => 'Location: /ErrorPage.aspx',
+  107 => 'Cache-Control: private',
+  108 => 'Content-Type: text/html; charset=utf-8',
+  109 => 'Content-Length: 134',
+  110 => 'HTTP/1.1 302 Found',
+  111 => 'Connection: close',
+  112 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  113 => 'Server: Microsoft-IIS/6.0',
+  114 => 'X-Powered-By: ASP.NET',
+  115 => 'X-AspNet-Version: 2.0.50727',
+  116 => 'Location: /ErrorPage.aspx',
+  117 => 'Cache-Control: private',
+  118 => 'Content-Type: text/html; charset=utf-8',
+  119 => 'Content-Length: 134',
+  120 => 'HTTP/1.1 302 Found',
+  121 => 'Connection: close',
+  122 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  123 => 'Server: Microsoft-IIS/6.0',
+  124 => 'X-Powered-By: ASP.NET',
+  125 => 'X-AspNet-Version: 2.0.50727',
+  126 => 'Location: /ErrorPage.aspx',
+  127 => 'Cache-Control: private',
+  128 => 'Content-Type: text/html; charset=utf-8',
+  129 => 'Content-Length: 134',
+  130 => 'HTTP/1.1 302 Found',
+  131 => 'Connection: close',
+  132 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  133 => 'Server: Microsoft-IIS/6.0',
+  134 => 'X-Powered-By: ASP.NET',
+  135 => 'X-AspNet-Version: 2.0.50727',
+  136 => 'Location: /ErrorPage.aspx',
+  137 => 'Cache-Control: private',
+  138 => 'Content-Type: text/html; charset=utf-8',
+  139 => 'Content-Length: 134',
+  140 => 'HTTP/1.1 302 Found',
+  141 => 'Connection: close',
+  142 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  143 => 'Server: Microsoft-IIS/6.0',
+  144 => 'X-Powered-By: ASP.NET',
+  145 => 'X-AspNet-Version: 2.0.50727',
+  146 => 'Location: /ErrorPage.aspx',
+  147 => 'Cache-Control: private',
+  148 => 'Content-Type: text/html; charset=utf-8',
+  149 => 'Content-Length: 134',
+  150 => 'HTTP/1.1 302 Found',
+  151 => 'Connection: close',
+  152 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  153 => 'Server: Microsoft-IIS/6.0',
+  154 => 'X-Powered-By: ASP.NET',
+  155 => 'X-AspNet-Version: 2.0.50727',
+  156 => 'Location: /ErrorPage.aspx',
+  157 => 'Cache-Control: private',
+  158 => 'Content-Type: text/html; charset=utf-8',
+  159 => 'Content-Length: 134',
+  160 => 'HTTP/1.1 302 Found',
+  161 => 'Connection: close',
+  162 => 'Date: Sun, 10 Nov 2013 17:52:16 GMT',
+  163 => 'Server: Microsoft-IIS/6.0',
+  164 => 'X-Powered-By: ASP.NET',
+  165 => 'X-AspNet-Version: 2.0.50727',
+  166 => 'Location: /ErrorPage.aspx',
+  167 => 'Cache-Control: private',
+  168 => 'Content-Type: text/html; charset=utf-8',
+  169 => 'Content-Length: 134',
+  170 => 'HTTP/1.1 302 Found',
+  171 => 'Connection: close',
+  172 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  173 => 'Server: Microsoft-IIS/6.0',
+  174 => 'X-Powered-By: ASP.NET',
+  175 => 'X-AspNet-Version: 2.0.50727',
+  176 => 'Location: /ErrorPage.aspx',
+  177 => 'Cache-Control: private',
+  178 => 'Content-Type: text/html; charset=utf-8',
+  179 => 'Content-Length: 134',
+  180 => 'HTTP/1.1 302 Found',
+  181 => 'Connection: close',
+  182 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  183 => 'Server: Microsoft-IIS/6.0',
+  184 => 'X-Powered-By: ASP.NET',
+  185 => 'X-AspNet-Version: 2.0.50727',
+  186 => 'Location: /ErrorPage.aspx',
+  187 => 'Cache-Control: private',
+  188 => 'Content-Type: text/html; charset=utf-8',
+  189 => 'Content-Length: 134',
+  190 => 'HTTP/1.1 302 Found',
+  191 => 'Connection: close',
+  192 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  193 => 'Server: Microsoft-IIS/6.0',
+  194 => 'X-Powered-By: ASP.NET',
+  195 => 'X-AspNet-Version: 2.0.50727',
+  196 => 'Location: /ErrorPage.aspx',
+  197 => 'Cache-Control: private',
+  198 => 'Content-Type: text/html; charset=utf-8',
+  199 => 'Content-Length: 134',
+) on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 5:52 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 7641
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%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%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDA0OSAgICAfAGdkZAITDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFWkNvbGQgRm9yayBCdWZmZXQ6IENvcm9uYXRpb24gQ2hpY2tlbiAobGlnaHRseSBjdXJyaWVkIG1heW9ubmFpc2Ugd2l0aCBmcnVpdCAmIGZyZXNoIGhlcmJzKR8AZ2RkAgIPZBYEZg9kFgICAQ8PFgQfCQUQRWF0TGVhcm5MaXZlLmpwZx8AZ2RkAgEPZBYGAgEPDxYEHwFlHwBnZGQCAw8PFgQfAQUKTGlua0J1dHRvbh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFB8KjMTEuMjUfAGdkZAIDDw8WBB8BBTpQbGVhc2UgTm90ZTogVGhlcmUgaXMgYSBtaW5pbXVtIG9yZGVyIHF1YW50aXR5IG9mIDEwIGl0ZW1zHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMTAzICAgIB8AZ2RkAhUPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUsQ29sZCBGb3JrIEJ1ZmZldDogSW5kaXZpZHVhbCBRdWljaGUgTG9ycmFpbmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNCAgICAfAGdkZAIXDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFNENvbGQgRm9yayBCdWZmZXQ6IEluZGl2aWR1YWwgTGVlayAmIEdydXllcmUgRnJpdGF0dGEfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNSAgICAfAGdkZAIZDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFPUNvbGQgRm9yayBCdWZmZXQ6IEdyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2V0YWJsZSBNZWRsZXkfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNiAgICAfAGdkZAIbDw8WBB8BBREmbHQ7Jmx0OyBQcmV2aW91cx8AaGRkAh0PDxYCHwEFFFJlY29yZHMgMSB0byA2IG9mIDI2ZGQCHw8PFgQfAQUNTmV4dCAmZ3Q7Jmd0Ox8AZ2RkAiEPDxYEHwEFGUFsbCBwcmljZXMgc3ViamVjdCB0byBWQVQfAGdkZAIlDw8WAh8BBTZDaXR5IC0gMDIwNyAwNDA4MDYxLCAwNzk2IDg0ODc1MzMuIENhc3MgLSAwMjA3IDA0MDUxODBkZAInDw8WAh8BZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYHBR5jdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1TZWFyY2gFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QxBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MgUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDMFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q0BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0NQUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDb38cX4ajg%2Bv%2BFDK0kkxiEyosEyJA%3D%3D&__EVENTVALIDATION=%2FwEWJQKs9qzaCgKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFzQZM2FueX9mJYidVHRlkH0ee2NY%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat1_1=Chilled+Beverages',
+  ),
+) on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:52 pm
+
+Cookie Dump! pre conv_cookies4headersNULL on November 10, 2013, 5:52 pm
+
+Cookie Dump! post conv_cookies4headers  on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 1275',
+  2 => 'Content-Type: text/css',
+  3 => 'Last-Modified: Tue, 24 Sep 2013 09:26:32 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "1a768288b9ce1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 24881',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+  0 => 'HTTP/1.1 200 OK',
+  1 => 'Content-Length: 5733',
+  2 => 'Content-Type: image/jpeg',
+  3 => 'Last-Modified: Sun, 13 Dec 2009 14:26:42 GMT',
+  4 => 'Accept-Ranges: bytes',
+  5 => 'ETag: "03d304a07cca1:236d"',
+  6 => 'Server: Microsoft-IIS/6.0',
+  7 => 'X-Powered-By: ASP.NET',
+  8 => 'Date: Sun, 10 Nov 2013 17:52:17 GMT',
+  9 => 'Connection: close',
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:52 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:53 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:54 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:54 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:54 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:54 pm
+
+Http Response Header Dump! array (
+) on November 10, 2013, 5:54 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:37 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:37 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:39 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:39 pm
+
+Http Response Header dump! array (
+) on November 10, 2013, 11:39 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:39 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:39 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 7641
+',
+    'method' => 'POST',
+    'content' => 'ctl00_ToolkitScriptManager1_HiddenField=&__EVENTTARGET=&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%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%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDA0OSAgICAfAGdkZAITDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFWkNvbGQgRm9yayBCdWZmZXQ6IENvcm9uYXRpb24gQ2hpY2tlbiAobGlnaHRseSBjdXJyaWVkIG1heW9ubmFpc2Ugd2l0aCBmcnVpdCAmIGZyZXNoIGhlcmJzKR8AZ2RkAgIPZBYEZg9kFgICAQ8PFgQfCQUQRWF0TGVhcm5MaXZlLmpwZx8AZ2RkAgEPZBYGAgEPDxYEHwFlHwBnZGQCAw8PFgQfAQUKTGlua0J1dHRvbh8AaGRkAgUPDxYCHwEFBDxicj5kZAIDD2QWAmYPZBYGAgEPDxYEHwEFB8KjMTEuMjUfAGdkZAIDDw8WBB8BBTpQbGVhc2UgTm90ZTogVGhlcmUgaXMgYSBtaW5pbXVtIG9yZGVyIHF1YW50aXR5IG9mIDEwIGl0ZW1zHwBnZGQCBQ8PFgQfAQUQQ29kZTogMTAwMTAzICAgIB8AZ2RkAhUPFgIfAGcWBmYPZBYCZg9kFgICAQ8PFgQfAQUsQ29sZCBGb3JrIEJ1ZmZldDogSW5kaXZpZHVhbCBRdWljaGUgTG9ycmFpbmUfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNCAgICAfAGdkZAIXDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFNENvbGQgRm9yayBCdWZmZXQ6IEluZGl2aWR1YWwgTGVlayAmIEdydXllcmUgRnJpdGF0dGEfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNSAgICAfAGdkZAIZDxYCHwBnFgZmD2QWAmYPZBYCAgEPDxYEHwEFPUNvbGQgRm9yayBCdWZmZXQ6IEdyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2V0YWJsZSBNZWRsZXkfAGdkZAICD2QWBGYPZBYCAgEPDxYEHwkFEEVhdExlYXJuTGl2ZS5qcGcfAGdkZAIBD2QWBgIBDw8WBB8BZR8AZ2RkAgMPDxYEHwEFCkxpbmtCdXR0b24fAGhkZAIFDw8WAh8BBQQ8YnI%2BZGQCAw9kFgJmD2QWBgIBDw8WBB8BBQfCozExLjI1HwBnZGQCAw8PFgQfAQU6UGxlYXNlIE5vdGU6IFRoZXJlIGlzIGEgbWluaW11bSBvcmRlciBxdWFudGl0eSBvZiAxMCBpdGVtcx8AZ2RkAgUPDxYEHwEFEENvZGU6IDEwMDEwNiAgICAfAGdkZAIbDw8WBB8BBREmbHQ7Jmx0OyBQcmV2aW91cx8AaGRkAh0PDxYCHwEFFFJlY29yZHMgMSB0byA2IG9mIDI2ZGQCHw8PFgQfAQUNTmV4dCAmZ3Q7Jmd0Ox8AZ2RkAiEPDxYEHwEFGUFsbCBwcmljZXMgc3ViamVjdCB0byBWQVQfAGdkZAIlDw8WAh8BBTZDaXR5IC0gMDIwNyAwNDA4MDYxLCAwNzk2IDg0ODc1MzMuIENhc3MgLSAwMjA3IDA0MDUxODBkZAInDw8WAh8BZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYHBR5jdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1TZWFyY2gFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3QxBSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0MgUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDMFKWN0bDAwJE1haW5QbGFjZUhvbGRlciRpbWFnZUJ1dHRvblByb2R1Y3Q0BSljdGwwMCRNYWluUGxhY2VIb2xkZXIkaW1hZ2VCdXR0b25Qcm9kdWN0NQUpY3RsMDAkTWFpblBsYWNlSG9sZGVyJGltYWdlQnV0dG9uUHJvZHVjdDb38cX4ajg%2Bv%2BFDK0kkxiEyosEyJA%3D%3D&__EVENTVALIDATION=%2FwEWJQKs9qzaCgKAhI%2BjAQKF2bnmBQKt2fiACgKZ876cAwKWnJTyDwKXnJTyDwLf3cTuCwKOouuuDQKpi4nEBwKwmZ6uCgLLgrzDBAL6xuKDBgKVsIAZAtzdxO4LAoui664NAqaLicQHAq2Znq4KAsiCvMMEApKwgBkC3d3E7gsCjKLrrg0Cp4uJxAcCrpmergoCk7CAGQKRouuuDQKsi4nEBwKzmZ6uCgKYsIAZAvDTrbYBAtGJ4u4MAtSJ4u4MAtOJ4u4MAtaJ4u4MAtWJ4u4MAtiJ4u4MAt2%2BttUFzQZM2FueX9mJYidVHRlkH0ee2NY%3D&ctl00%24MainPlaceHolder%24tbSearch=&ctl00%24MainPlaceHolder%24ddlEntity=1&ctl00%24MainPlaceHolder%24BCat1_1=Chilled+Beverages',
+  ),
+) on November 10, 2013, 11:39 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:40 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:40 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:40 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:40 pm
+
+ERROR!! Unable to read from cookie_jar!! on November 10, 2013, 11:40 pm
+
+Cookie Dump! pre conv_cookies4headersfalse on November 10, 2013, 11:40 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: 
+ on November 10, 2013, 11:40 pm
+
+Http Response Header dump! array (
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:41 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:41 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:41 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:41:55 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:41 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:41 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:41 pm
+
+Http Response Header dump! array (
+) on November 10, 2013, 11:42 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:42 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:42 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:42 pm
+
+Http Response Header dump! array (
+) on November 10, 2013, 11:42 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui55hqf01g55z4l3dzm4',
+) on November 10, 2013, 11:42 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+ on November 10, 2013, 11:42 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=bezjui55hqf01g55z4l3dzm4;ASP.NET_SessionId=bezjui55hqf01g55z4l3dzm4;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:42 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:44 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:44:12 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:44 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:44 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:44:12 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:44 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:44 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:44 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:45:03 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:45:09 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:45:21 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'ASP_NET_SessionId' => '4l3dzm4',
+  'ASP.NET_SessionId' => 'bezjui5
+',
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+ on November 10, 2013, 11:45 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: ASP_NET_SessionId=4l3dzm4;ASP.NET_SessionId=bezjui5
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:45 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:47 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:47 pm
+
+Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:47:37 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:47 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:47 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:47 pm
+
+Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:47 pm
+
+Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:47 pm
+
+Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:47 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:51:05 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Http Response Header dump! array (
+  0 => 'HTTP/1.1 400 Bad Request',
+  1 => 'Content-Type: text/html',
+  2 => 'Date: Sun, 10 Nov 2013 23:51:11 GMT',
+  3 => 'Connection: close',
+  4 => 'Content-Length: 42',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! pre conv_cookies4headersarray (
+  'dummy_cookie' => 'dumb',
+  'dummy_cookie2' => 'dumb2
+',
+) on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Cookie Dump! post conv_cookies4headers Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+ on November 10, 2013, 11:51 pm
+
+<a id="November 10, 2013, 11:51 pm">----</a>Http request header dump, ViewMenu.aspx! array (
+  'http' => 
+  array (
+    'header' => 'Content-Type:application/x-www-form-urlencoded
+Cookie: dummy_cookie=dumb;dummy_cookie2=dumb2
+;
+Host:hospitality.city.ac.uk
+Origin:http://hospitality.city.ac.uk
+Referer:http://hospitality.city.ac.uk/
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+Content-Length: 0
+',
+    'method' => 'POST',
+    'content' => NULL,
+  ),
+) on November 10, 2013, 11:51 pm
+
