@@ -18,7 +18,8 @@
 				"Connection: keep-alive\r\n".
 				conv_cookies4headers($cookies) .
 				"Host:hospitality.city.ac.uk\r\n".
-				"User-Agent: $useragent\r\n"
+				"User-Agent: $useragent\r\n".
+				"timeout"=> 5
 			)
 		);	
 
@@ -60,7 +61,8 @@
 				"Content-Type: application/x-www-form-urlencoded\r\n".
 				"Content-Length: ". strlen(http_build_query($_POST)) . "\r\n",
 				"method" => "POST",
-				"content" => http_build_query($_POST)
+				"content" => http_build_query($_POST),
+				"timeout"=> 5
 			)
 		);
 
