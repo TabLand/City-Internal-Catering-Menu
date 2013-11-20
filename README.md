@@ -2,9 +2,12 @@
 A php script that fetches the catering menu from the internal City network, and delivers it to outsiders!  
   
 =========================================================  
+**Demo**  
+The demo can be viewed at: http://student.city.ac.uk/~abnd198/proxy  
+
 This project was written to get access to a inaccessible web system inside City University's internal dns.  
   
-The web address I'm interested in browsing is http://hospitality.city.ac.uk/ViewMenu.aspx which belongs to the Catering department and hosts the menu and prices. It is only visible through physically networked computers inside City University. It is inaccessible over wifi inside university.  
+The web address I'm interested in browsing is http://hospitality.city.ac.uk/ViewMenu.aspx which belongs to the Catering department and hosts the menu and prices. It is only visible through physically networked computers inside City University. It is inaccessible outside university, or even over wifi inside university.  
   
 I take advantage of the fact that scripts residing on the student.city.ac.uk domain can route to this internal system. Unfortunately the LAMP stack on student.city does not have cURL installed, so I'm limited to using file_get_contents().  
   
